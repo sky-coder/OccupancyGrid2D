@@ -6,9 +6,9 @@ from math import ceil, floor, atan2, degrees, radians, sqrt, cos, sin
 
 #States
 UNKNOWN = 0
-MIXED = 1 //Mixed
-FULL = 2 //Full
-EMPTY = 3 //Empty
+MIXED = 1
+FULL = 2
+EMPTY = 3 
 
 #Mode
 EDGES = 0
