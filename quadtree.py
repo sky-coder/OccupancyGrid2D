@@ -8,7 +8,7 @@ from math import ceil, floor, atan2, degrees, radians, sqrt, cos, sin
 UNKNOWN = 0
 MIXED = 1
 FULL = 2
-EMPTY = 3 
+EMPTY = 3
 
 #Mode
 EDGES = 0
@@ -158,12 +158,12 @@ DIR_REFLECT = {
 class Node(object):
     NE = NO = SE = SO = None
 
-    def __init__(self, top=-100000, left=-100000, w=200000, h=200000, tipo = UNKNOWN, parent = None):
+    def __init__(self, top=-100000, left=-100000, w=200000, h=200000, type = UNKNOWN, parent = None):
         self.top = top
         self.left = left
         self.width = w
         self.height = h
-        self.__tipo__ = tipo
+        self.__type__ = type
         self.himm = 0
         self.parent = parent
 
@@ -179,21 +179,21 @@ class Node(object):
 
 
     @property
-    def tipo(self):
-        return self.__tipo__
+    def type(self):
+        return self.__type__
 
 
-    @tipo.setter
-    def tipo(self,value):
+    @type.setter
+    def type(self,value):
         if not value in [UNKNOWN,EMPTY, FULL,MIXED]:
             raise Exception("NODE: Type not valid")
 
-        if self.__tipo__ == FULL:
+        if self.__type__ == FULL:
             self.addHIMM()
-        elif self.__tipo__ == EMPTY:
+        elif self.__type__ == EMPTY:
             self.subHIMM()
         else:
-            self.__tipo__ = value
+            self.__type__ = value
 
 
     def addHIMM(self):
@@ -202,7 +202,7 @@ class Node(object):
             self.himm = 15
 
         if self.himm >= 6:
-            self.__tipo__ = FULL
+            self.__type__ = FULL
 
 
     def subHIMM(self):
@@ -211,7 +211,7 @@ class Node(object):
             self.himm = 0
 
         if self.himm < 6:
-            self.__tipo__ = EMPTY
+            self.__type__ = EMPTY
 
 
     def __neighborsDirection__(self,node,direction):
@@ -222,7 +222,7 @@ class Node(object):
                 n, t = self.parent.__neighborsDirectionVertex__(self,direction)
             else:
                 n, t = self.parent.__neighborsDirection__(self,direction)
-            if n.tipo in [UNKNOWN, FULL, EMPTY]:
+            if n.type in [UNKNOWN, FULL, EMPTY]:
                 return n, t+1
             return n.nodeByDir(REFLECT[nodeDir][direction]), t+1
         else:
@@ -237,7 +237,7 @@ class Node(object):
                 n, t = self.parent.__neighborsDirectionVertex__(self,direction)
             else:
                 n, t = self.parent.__neighborsDirection__(self,direction)
-            if n.tipo in [UNKNOWN, FULL, EMPTY]:
+            if n.type in [UNKNOWN, FULL, EMPTY]:
                 return n, t+1
             return n.nodeByDir(REFLECT[nodeDir][direction]), t+1
         elif COMMON_EDGE[nodeDir][direction] != None:
@@ -252,7 +252,7 @@ class Node(object):
             n, t = self.parent.__neighborsDirectionVertex__(self,direction)
         else:
             n, t = self.parent.__neighborsDirection__(self,direction)
-        if n.tipo == MIXED and not direction in ["NO", "NE", "SE", "SO"]:
+        if n.type == MIXED and not direction in ["NO", "NE", "SE", "SO"]:
 #            print "direction ",self.parent.dirByNode(self), direction, DIR_REFLECT[direction]
             direction = DIR_REFLECT[direction]
             sons_dir = SONS[direction]
@@ -264,14 +264,14 @@ class Node(object):
                 current = openset[0]
                 openset.remove(current)
                 t += 1
-                if current.tipo == MIXED:
+                if current.type == MIXED:
                     for nodeDir in sons_dir:
 #                        print nodeDir
                         openset.append(current.nodeByDir(nodeDir))
-                elif current.tipo == EMPTY:
+                elif current.type == EMPTY:
                     ret.append(current)
             return ret, t
-        if n.tipo == EMPTY:
+        if n.type == EMPTY:
             return [n], t
         return [], t
 
@@ -299,53 +299,53 @@ class Node(object):
 
 
     def putObstaculo(self, p, value = FULL, minSize = 100):
-        if self.tipo == value:
+        if self.type == value:
             return
         w,h = self.width/2., self.height/2.
-        if self.tipo in [UNKNOWN, EMPTY, FULL]:
-            self.NO, self.NE, self.SO, self.SE = (Node(self.top,self.left, w,h,self.tipo,self),
-                                                    Node(self.top,self.left+w, w,h,self.tipo,self),
-                                                    Node(self.top+h,self.left, w,h,self.tipo,self),
-                                                    Node(self.top+h,self.left+w, w,h,self.tipo,self))
-            self.tipo = MIXED
+        if self.type in [UNKNOWN, EMPTY, FULL]:
+            self.NO, self.NE, self.SO, self.SE = (Node(self.top,self.left, w,h,self.type,self),
+                                                    Node(self.top,self.left+w, w,h,self.type,self),
+                                                    Node(self.top+h,self.left, w,h,self.type,self),
+                                                    Node(self.top+h,self.left+w, w,h,self.type,self))
+            self.type = MIXED
 
-        if self.tipo == MIXED:
+        if self.type == MIXED:
             if w + self.left > p[0]:
                 if h + self.top > p[1]:
                     if w > minSize and h > minSize:
                         self.NO.putObstaculo(p,value)
                     else:
-                        self.NO.tipo = value
+                        self.NO.type = value
                 else:
                     if w > minSize and h > minSize:
                         self.SO.putObstaculo(p,value)
                     else:
-                        self.SO.tipo = value
+                        self.SO.type = value
             else:
                 if h + self.top > p[1]:
                     if w > minSize and h > minSize:
                         self.NE.putObstaculo(p,value)
                     else:
-                        self.NE.tipo = value
+                        self.NE.type = value
                 else:
                     if w > minSize and h > minSize:
                         self.SE.putObstaculo(p,value)
                     else:
-                        self.SE.tipo = value
+                        self.SE.type = value
 
-        if (self.tipo == MIXED) and (self.NO.tipo == self.NE.tipo == self.SE.tipo == self.SO.tipo != MIXED):
+        if (self.type == MIXED) and (self.NO.type == self.NE.type == self.SE.type == self.SO.type != MIXED):
             maxi = max(self.NE.himm,self.NO.himm,self.SO.himm,self.SE.himm)
             mini = min(self.NE.himm,self.NO.himm,self.SO.himm,self.SE.himm)
 
             if (maxi-mini) < 10:
-                self.tipo = self.NE.tipo
+                self.type = self.NE.type
                 self.himm = maxi
                 self.NE = self.NO = self.SE = self.SO = None
 
 
     def whoContains(self, pt):
 
-        if self.tipo in [UNKNOWN, EMPTY, FULL]:
+        if self.type in [UNKNOWN, EMPTY, FULL]:
             return self
 
         w,h = self.width/2., self.height/2.
@@ -380,17 +380,17 @@ class Node(object):
 
         p = floor(self.left - minx)*sx, s[1] - floor(self.top - miny)*sy
         size = ceil(self.width*sx),-ceil(self.height*sy)
-        if self.tipo == FULL:
+        if self.type == FULL:
             pygame.draw.rect(screen,(0,0,0),pygame.Rect(p, size),0)
             if mode == EDGES:
                 pygame.draw.rect(screen,(0,0,0),pygame.Rect(p, size),1)
-        elif self.tipo == EMPTY:
+        elif self.type == EMPTY:
             pygame.draw.rect(screen,(255,255,255),pygame.Rect(p, size),0)
             if mode == EDGES:
                 pygame.draw.rect(screen,(0,0,0),pygame.Rect(p, size),1)
-        elif self.tipo == UNKNOWN and mode == EDGES:
+        elif self.type == UNKNOWN and mode == EDGES:
             pygame.draw.rect(screen,(0,0,0),pygame.Rect(p, size),1)
-        elif self.tipo == MIXED:
+        elif self.type == MIXED:
             self.NO.drawNode(screen,minRect,celSize,mode)
             self.SO.drawNode(screen,minRect,celSize,mode)
             self.NE.drawNode(screen,minRect,celSize,mode)
@@ -410,9 +410,9 @@ class Node(object):
 
 
     def __len__(self):
-        if self.tipo in [UNKNOWN,EMPTY,FULL]:
+        if self.type in [UNKNOWN,EMPTY,FULL]:
             return 1
-        if self.tipo == MIXED:
+        if self.type == MIXED:
             return 1 + len(self.NO) + len(self.NE) + len(self.SO) + len(self.SE)
 
 
@@ -431,8 +431,8 @@ class Quadtree(Node):
     start = goal = None
 
 
-    def __init__(self, top=-100000, left=-100000, w=200000, h=200000, tipo = UNKNOWN):
-        super(Quadtree,self).__init__(top, left, w, h, tipo)
+    def __init__(self, top=-100000, left=-100000, w=200000, h=200000, type = UNKNOWN):
+        super(Quadtree,self).__init__(top, left, w, h, type)
         self.mode = EDGES
         self.path = self.openset = self.closeset = []
 
