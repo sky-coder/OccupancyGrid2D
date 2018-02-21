@@ -6,9 +6,9 @@ from math import ceil, floor, atan2, degrees, radians, sqrt, cos, sin
 
 #States
 UNKNOWN = 0
-MISTO = 1
-CHEIO = 2
-VAZIO = 3
+MIXED = 1 //Mixed
+FULL = 2 //Full
+EMPTY = 3 //Empty
 
 #Mode
 EDGES = 0
@@ -177,7 +177,7 @@ class Node(object):
     def hash(self):
         return self.left+self.width/2., self.top + self.height/2.
 
-    
+
     @property
     def tipo(self):
         return self.__tipo__
@@ -185,12 +185,12 @@ class Node(object):
 
     @tipo.setter
     def tipo(self,value):
-        if not value in [UNKNOWN,VAZIO, CHEIO,MISTO]:
+        if not value in [UNKNOWN,EMPTY, FULL,MIXED]:
             raise Exception("NODE: Type not valid")
-        
-        if self.__tipo__ == CHEIO:
+
+        if self.__tipo__ == FULL:
             self.addHIMM()
-        elif self.__tipo__ == VAZIO:
+        elif self.__tipo__ == EMPTY:
             self.subHIMM()
         else:
             self.__tipo__ = value
@@ -200,9 +200,9 @@ class Node(object):
         self.himm += 3
         if self.himm > 15:
             self.himm = 15
-        
+
         if self.himm >= 6:
-            self.__tipo__ = CHEIO
+            self.__tipo__ = FULL
 
 
     def subHIMM(self):
@@ -211,7 +211,7 @@ class Node(object):
             self.himm = 0
 
         if self.himm < 6:
-            self.__tipo__ = VAZIO
+            self.__tipo__ = EMPTY
 
 
     def __neighborsDirection__(self,node,direction):
@@ -222,7 +222,7 @@ class Node(object):
                 n, t = self.parent.__neighborsDirectionVertex__(self,direction)
             else:
                 n, t = self.parent.__neighborsDirection__(self,direction)
-            if n.tipo in [UNKNOWN, CHEIO, VAZIO]:
+            if n.tipo in [UNKNOWN, FULL, EMPTY]:
                 return n, t+1
             return n.nodeByDir(REFLECT[nodeDir][direction]), t+1
         else:
@@ -237,7 +237,7 @@ class Node(object):
                 n, t = self.parent.__neighborsDirectionVertex__(self,direction)
             else:
                 n, t = self.parent.__neighborsDirection__(self,direction)
-            if n.tipo in [UNKNOWN, CHEIO, VAZIO]:
+            if n.tipo in [UNKNOWN, FULL, EMPTY]:
                 return n, t+1
             return n.nodeByDir(REFLECT[nodeDir][direction]), t+1
         elif COMMON_EDGE[nodeDir][direction] != None:
@@ -252,7 +252,7 @@ class Node(object):
             n, t = self.parent.__neighborsDirectionVertex__(self,direction)
         else:
             n, t = self.parent.__neighborsDirection__(self,direction)
-        if n.tipo == MISTO and not direction in ["NO", "NE", "SE", "SO"]:
+        if n.tipo == MIXED and not direction in ["NO", "NE", "SE", "SO"]:
 #            print "direction ",self.parent.dirByNode(self), direction, DIR_REFLECT[direction]
             direction = DIR_REFLECT[direction]
             sons_dir = SONS[direction]
@@ -264,14 +264,14 @@ class Node(object):
                 current = openset[0]
                 openset.remove(current)
                 t += 1
-                if current.tipo == MISTO:
+                if current.tipo == MIXED:
                     for nodeDir in sons_dir:
 #                        print nodeDir
                         openset.append(current.nodeByDir(nodeDir))
-                elif current.tipo == VAZIO:
+                elif current.tipo == EMPTY:
                     ret.append(current)
             return ret, t
-        if n.tipo == VAZIO:
+        if n.tipo == EMPTY:
             return [n], t
         return [], t
 
@@ -298,18 +298,18 @@ class Node(object):
             return "SE"
 
 
-    def putObstaculo(self, p, value = CHEIO, minSize = 100):
+    def putObstaculo(self, p, value = FULL, minSize = 100):
         if self.tipo == value:
             return
         w,h = self.width/2., self.height/2.
-        if self.tipo in [UNKNOWN, VAZIO, CHEIO]:
+        if self.tipo in [UNKNOWN, EMPTY, FULL]:
             self.NO, self.NE, self.SO, self.SE = (Node(self.top,self.left, w,h,self.tipo,self),
                                                     Node(self.top,self.left+w, w,h,self.tipo,self),
                                                     Node(self.top+h,self.left, w,h,self.tipo,self),
                                                     Node(self.top+h,self.left+w, w,h,self.tipo,self))
-            self.tipo = MISTO
+            self.tipo = MIXED
 
-        if self.tipo == MISTO:
+        if self.tipo == MIXED:
             if w + self.left > p[0]:
                 if h + self.top > p[1]:
                     if w > minSize and h > minSize:
@@ -330,13 +330,13 @@ class Node(object):
                 else:
                     if w > minSize and h > minSize:
                         self.SE.putObstaculo(p,value)
-                    else: 
+                    else:
                         self.SE.tipo = value
 
-        if (self.tipo == MISTO) and (self.NO.tipo == self.NE.tipo == self.SE.tipo == self.SO.tipo != MISTO):
+        if (self.tipo == MIXED) and (self.NO.tipo == self.NE.tipo == self.SE.tipo == self.SO.tipo != MIXED):
             maxi = max(self.NE.himm,self.NO.himm,self.SO.himm,self.SE.himm)
             mini = min(self.NE.himm,self.NO.himm,self.SO.himm,self.SE.himm)
-            
+
             if (maxi-mini) < 10:
                 self.tipo = self.NE.tipo
                 self.himm = maxi
@@ -345,7 +345,7 @@ class Node(object):
 
     def whoContains(self, pt):
 
-        if self.tipo in [UNKNOWN, VAZIO, CHEIO]:
+        if self.tipo in [UNKNOWN, EMPTY, FULL]:
             return self
 
         w,h = self.width/2., self.height/2.
@@ -380,17 +380,17 @@ class Node(object):
 
         p = floor(self.left - minx)*sx, s[1] - floor(self.top - miny)*sy
         size = ceil(self.width*sx),-ceil(self.height*sy)
-        if self.tipo == CHEIO:
+        if self.tipo == FULL:
             pygame.draw.rect(screen,(0,0,0),pygame.Rect(p, size),0)
             if mode == EDGES:
                 pygame.draw.rect(screen,(0,0,0),pygame.Rect(p, size),1)
-        elif self.tipo == VAZIO:
+        elif self.tipo == EMPTY:
             pygame.draw.rect(screen,(255,255,255),pygame.Rect(p, size),0)
             if mode == EDGES:
                 pygame.draw.rect(screen,(0,0,0),pygame.Rect(p, size),1)
         elif self.tipo == UNKNOWN and mode == EDGES:
             pygame.draw.rect(screen,(0,0,0),pygame.Rect(p, size),1)
-        elif self.tipo == MISTO:
+        elif self.tipo == MIXED:
             self.NO.drawNode(screen,minRect,celSize,mode)
             self.SO.drawNode(screen,minRect,celSize,mode)
             self.NE.drawNode(screen,minRect,celSize,mode)
@@ -410,9 +410,9 @@ class Node(object):
 
 
     def __len__(self):
-        if self.tipo in [UNKNOWN,VAZIO,CHEIO]:
+        if self.tipo in [UNKNOWN,EMPTY,FULL]:
             return 1
-        if self.tipo == MISTO:
+        if self.tipo == MIXED:
             return 1 + len(self.NO) + len(self.NE) + len(self.SO) + len(self.SE)
 
 
@@ -458,13 +458,13 @@ class Quadtree(Node):
 
                     r = leituras[int(90-angle)]
                     r = min(r,5000)
-            
+
                     d = sqrt(pow(center[1]-roboPos[1],2) + pow(center[0]-roboPos[0],2))
 
                     if r < 5000 and r-variacao < d < r+variacao:
-                        self.putObstaculo(center,CHEIO,self.minSize)
+                        self.putObstaculo(center,FULL,self.minSize)
                     elif d <= r-variacao:
-                        self.putObstaculo(center,VAZIO,self.minSize)
+                        self.putObstaculo(center,EMPTY,self.minSize)
 
 
     def worldToScreen(self,screen, pt):
@@ -555,7 +555,7 @@ class Quadtree(Node):
                                 sx*(x + r*cos(radians(angle)) - minx) ,
                                 s[1] - sy*(y + r*sin(radians(angle)) - miny)))
                 angle -= 1
-            
+
             pygame.draw.polygon(screen,(0,0,255),dLaser,0)
 
 
@@ -688,4 +688,3 @@ class Quadtree(Node):
                         if not neighbor in openset:
                             openset.append(neighbor)
                 last = current
-
