@@ -298,7 +298,7 @@ class Node(object):
             return "SE"
 
 
-    def putObstaculo(self, p, value = FULL, minSize = 100):
+    def putObstacle(self, p, value = FULL, minSize = 100):
         if self.type == value:
             return
         w,h = self.width/2., self.height/2.
@@ -313,23 +313,23 @@ class Node(object):
             if w + self.left > p[0]:
                 if h + self.top > p[1]:
                     if w > minSize and h > minSize:
-                        self.NO.putObstaculo(p,value)
+                        self.NO.putObstacle(p,value)
                     else:
                         self.NO.type = value
                 else:
                     if w > minSize and h > minSize:
-                        self.SO.putObstaculo(p,value)
+                        self.SO.putObstacle(p,value)
                     else:
                         self.SO.type = value
             else:
                 if h + self.top > p[1]:
                     if w > minSize and h > minSize:
-                        self.NE.putObstaculo(p,value)
+                        self.NE.putObstacle(p,value)
                     else:
                         self.NE.type = value
                 else:
                     if w > minSize and h > minSize:
-                        self.SE.putObstaculo(p,value)
+                        self.SE.putObstacle(p,value)
                     else:
                         self.SE.type = value
 
@@ -437,7 +437,7 @@ class Quadtree(Node):
         self.path = self.openset = self.closeset = []
 
 
-    def putObstaculoSweep(self,roboPos,leituras):
+    def putObstacleSweep(self,roboPos,readings):
         x,y = roboPos[0], roboPos[1]
         pad = 5500.
 
@@ -456,15 +456,15 @@ class Quadtree(Node):
 
                 if -90. <= angle <= 90.:
 
-                    r = leituras[int(90-angle)]
+                    r = readings[int(90-angle)]
                     r = min(r,5000)
 
                     d = sqrt(pow(center[1]-roboPos[1],2) + pow(center[0]-roboPos[0],2))
 
                     if r < 5000 and r-variacao < d < r+variacao:
-                        self.putObstaculo(center,FULL,self.minSize)
+                        self.putObstacle(center,FULL,self.minSize)
                     elif d <= r-variacao:
-                        self.putObstaculo(center,EMPTY,self.minSize)
+                        self.putObstacle(center,EMPTY,self.minSize)
 
 
     def worldToScreen(self,screen, pt):
@@ -529,7 +529,7 @@ class Quadtree(Node):
 
 
 
-    def drawRobot(self,screen,x,y,th,leituras):
+    def drawRobot(self,screen,x,y,th,readings):
 
         s = screen.get_size()
         sx = self.scale*float(s[0])/self.width
@@ -545,10 +545,10 @@ class Quadtree(Node):
 
         robot = int(sx*(x-minx)), s[1] - int(sy*(y-miny))
         pygame.draw.circle(screen,(255,0,0),robot,int(1.*self.scale),0)
-        if leituras != []:
+        if readings != []:
             dLaser = [robot]
             angle = 90+th
-            for r in leituras:
+            for r in readings:
                 if r > 5000:
                     r = 5000
                 dLaser.append((
@@ -597,7 +597,7 @@ class Quadtree(Node):
         if not None in [start,goal]:
             startpt = start
             goalpt = goal
-            print "Procurando!"
+            print "Searching!"
             tstart = time.time()
             start = self.whoContains(start)
             goal = self.whoContains(goal)
@@ -620,7 +620,7 @@ class Quadtree(Node):
                 current = min(openset,key=lambda pt: f_score[hash(pt)])
 
                 if current == goal:
-                    print "Achou!!"
+                    print "Found!!"
                     path = []
                     path.append(goalpt)
 #                    path.append(current)
@@ -659,8 +659,8 @@ class Quadtree(Node):
                     self.openset = openset
                     self.closeset = closeset
 
-                    print "Tempo de busca: {0}".format(time.time() - tstart)
-                    print "Nós visitados: {0}".format(visitados)
+                    print "Search Time: {0}".format(time.time() - tstart)
+                    print "Visited: {0}".format(visitados)
                     return self.path
                 openset.remove(current)
                 closeset.append(current)

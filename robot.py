@@ -13,7 +13,8 @@ shot = 1
 class Simulation(object):
     def __init__(self):
         self.baseData = open("datasets/mapeamento_esparso.txt",'r')
-        self.map = Mapa()
+        # self.baseData = open("datasets/result.txt",'r')
+        self.map = Map()
         self.quadRoot = Quadtree()
         self.k = None
         self.center = [9300,-6600]
@@ -113,7 +114,8 @@ class Simulation(object):
         for l in self.baseData:
             l = l.split(',')
             x,y,th = [float(i) for i in l[:3]]
-            leituras = [int(i) for i in l[3:]]
+            readings = [int(float(i)) for i in l[3:]]
+            # print (readings)
             self.pos = [x,y]
             if self.followRobot:
                 self.center = self.pos
@@ -121,19 +123,19 @@ class Simulation(object):
                 self.quadRoot.center = self.pos
 
             if self.sweepArea:
-                if leituras != []:
-                    self.map.putObstaculoSweep((x,y,th),leituras)
-                    self.quadRoot.putObstaculoSweep((x,y,th),leituras)
+                if readings != []:
+                    self.map.putObstacleSweep((x,y,th),readings)
+                    self.quadRoot.putObstacleSweep((x,y,th),readings)
             else:
-                anguloLeitura = 180
-                for leitura in leituras:
-                    if(leitura <= 5000):
-                        angle = anguloLeitura+th-90
+                angleData = 180
+                for reading in readings:
+                    if(reading <= 5000):
+                        angle = angleData+th-90
                         rad = angle*pi/180.
-                        lx, ly = x+cos(rad)*leitura, y+sin(rad)*leitura
-                        self.quadRoot.putObstaculo((lx,ly))
-                        self.map.putObstaculo(lx,ly)
-                    anguloLeitura -= 1
+                        lx, ly = x+cos(rad)*reading, y+sin(rad)*reading
+                        self.quadRoot.putObstacle((lx,ly))
+                        self.map.putObstacle(lx,ly)
+                    angleData -= 1
 
             quadLen.append(len(self.quadRoot))
             mapLen.append(len(self.map))
@@ -147,7 +149,7 @@ class Simulation(object):
                 screen.fill((204,204,204))
                 if self.mode == QUAD:
                     self.quadRoot.draw(screen)
-                    self.quadRoot.drawRobot(screen,x,y,th,leituras)
+                    self.quadRoot.drawRobot(screen,x,y,th,readings)
                 if self.mode == GRID:
                     self.map.draw(screen)
                     self.map.drawRobot(screen,x,y)

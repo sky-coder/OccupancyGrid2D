@@ -29,7 +29,7 @@ class Celula(object):
 
 
 
-class Mapa(object):
+class Map(object):
     scale = 1.0
     center = (0,0)
     start = goal = None
@@ -45,14 +45,14 @@ class Mapa(object):
         self.map = [[Celula() for colunas in xrange(self.width)] for linhas in xrange(self.height)]
 
 
-    def putObstaculo(self,x,y):
+    def putObstacle(self,x,y):
         x,y = self.worldToMap((x,y))
         self.map[y][x].isObstacle = True
         self.boundingBox = ((min(self.boundingBox[0][0],x), min(self.boundingBox[0][1],y)),
                             (max(self.boundingBox[1][0],x), max(self.boundingBox[1][1],y)))
 
 
-    def putObstaculoSweep(self,roboPos,leituras):
+    def putObstacleSweep(self,roboPos,readings):
         x,y = self.worldToMap((roboPos[0],roboPos[1]))
         pad = 5500./self.cellXSize
 
@@ -71,7 +71,7 @@ class Mapa(object):
 
                 if -90. <= angle <= 90.:
 
-                    r = leituras[int(90-angle)]
+                    r = readings[int(90-angle)]
                     r = min(r,5000)
 
                     d = sqrt(pow(center[1]-roboPos[1],2) + pow(center[0]-roboPos[0],2))
@@ -93,16 +93,16 @@ class Mapa(object):
         x += self.width/2.
 
         y /= self.cellYSize
-        y = self.height/2. - y 
+        y = self.height/2. - y
         return int(round(x)),int(round(y))
 
-    
+
     def mapToWorld(self,pt):
         x, y = pt
         x -= self.width/2.
         x *= self.cellXSize
 
-        y = self.height/2. - y 
+        y = self.height/2. - y
         y *= self.cellYSize
         return x,y
 
@@ -231,7 +231,7 @@ class Mapa(object):
         self.goal = goal
 
         if not None in [start,goal]:
-            print "Procurando!"
+            print "Searching!"
             tstart = time.time()
             def distance(pt1,pt2):
                 return sqrt( pow(pt2[1]-pt1[1],2) + pow(pt2[0]-pt1[0],2))
@@ -256,7 +256,7 @@ class Mapa(object):
                 current = min(openset,key=lambda pt: f_score[hashing(pt)])
 
                 if current == goal:
-                    print "Achou!!"
+                    print "Found!!"
                     path = []
                     path.append(current)
                     path.append(last)
@@ -265,8 +265,8 @@ class Mapa(object):
                         last = came_from[hashing(last)]
                         path.append(last)
                     self.path = path[::-1]
-                    print "Tempo de busca: {0}".format(time.time() - tstart)
-                    print "Nós visitados: {0}".format(visitados)
+                    print "Search Time: {0}".format(time.time() - tstart)
+                    print "Visited: {0}".format(visitados)
                     return
                 openset.remove(current)
                 closeset.append(current)
@@ -293,6 +293,4 @@ class Mapa(object):
                 last = current
 
     def __len__(self):
-        return self.width*self.height 
-
-
+        return self.width*self.height

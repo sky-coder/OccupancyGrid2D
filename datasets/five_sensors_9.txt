@@ -1,0 +1,1781 @@
+[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.34 s
+[KRanging: 72, 121, 8190, 8190, 82
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.47 s
+[KRanging: 71, 123, 8190, 8190, 78
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.59 s
+[KRanging: 75, 122, 8190, 8190, 79
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.72 s
+[KRanging: 73, 123, 8190, 8190, 76
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.84 s
+[KRanging: 73, 123, 8190, 8190, 80
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.96 s
+[KRanging: 73, 123, 8190, 8190, 78
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.07 s
+[KRanging: 76, 125, 8190, 8190, 77
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.19 s
+[KRanging: 73, 121, 8190, 8190, 79
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.31 s
+[KRanging: 75, 124, 8190, 8190, 79
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.43 s
+[KRanging: 73, 124, 8190, 8190, 81
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.55 s
+[KRanging: 75, 123, 8190, 8190, 81
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.67 s
+[KRanging: 76, 120, 8190, 8190, 78
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.79 s
+[KRanging: 74, 123, 8190, 8190, 78
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.91 s
+[KRanging: 72, 123, 8190, 8190, 75
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.03 s
+[KRanging: 74, 123, 8190, 8190, 79
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.15 s
+[KRanging: 73, 122, 8190, 8190, 78
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.27 s
+[KRanging: 72, 125, 8190, 8190, 80
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.39 s
+[KRanging: 75, 122, 8190, 8190, 78
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.52 s
+[KRanging: 73, 124, 8190, 8190, 78
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.63 s
+[KRanging: 72, 126, 8190, 8190, 78
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.76 s
+[KRanging: 73, 121, 8190, 8190, 81
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 7.19)
+[KCalib Status : 1, 0 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 0.05 s
+[KRanging: 70, 122, 8190, 8190, 77
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 218.88)
+[KCalib Status : 1, 1 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 0.16 s
+[KRanging: 74, 124, 8190, 8190, 81
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 360.00)
+[KCalib Status : 1, 1 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 0.28 s
+[KRanging: 73, 123, 8190, 8190, 76
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 360.00)
+[KCalib Status : 1, 1 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 0.40 s
+[KRanging: 74, 123, 8190, 8190, 77
+KPosition: -0.00 , -0.06
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 360.00)
+[KCalib Status : 1, 1 
+[KOdometry : -0.000612, 0.000000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 0.52 s
+[KRanging: 70, 122, 8190, 8190, 81
+KPosition: -0.00 , -0.00
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 360.00)
+[KCalib Status : 1, 1 
+[KOdometry : -0.000612, 0.000612 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 0.64 s
+[KRanging: 76, 123, 8190, 8190, 77
+KPosition: -0.00 , 0.35
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 360.00)
+[KCalib Status : 1, 1 
+[KOdometry : 0.000000, 0.003675 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 0.76 s
+[KRanging: 75, 124, 8190, 8190, 79
+KPosition: 0.05 , 0.53
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 144.07)
+[KCalib Status : 1, 1 
+[KOdometry : 0.001225, 0.011637 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 0.88 s
+[KRanging: 73, 125, 8190, 8190, 80
+KPosition: -0.16 , 1.79
+[KOrientation (X-Y-Z): (358.12 , 0.22 , 0.29)
+[KCalib Status : 1, 1 
+[KOdometry : 0.008575, 0.018375 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 1.00 s
+[KRanging: 73, 125, 8190, 8190, 88
+KPosition: -0.18 , 4.56
+[KOrientation (X-Y-Z): (358.12 , 0.19 , 0.54)
+[KCalib Status : 1, 1 
+[KOdometry : 0.023275, 0.033075 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 1.13 s
+[KRanging: 76, 129, 8190, 8190, 103
+KPosition: -0.22 , 8.54
+[KOrientation (X-Y-Z): (358.12 , 0.22 , 0.69)
+[KCalib Status : 1, 1 
+[KOdometry : 0.044099, 0.054512 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 1.26 s
+[KRanging: 75, 129, 8190, 8190, 147
+KPosition: -0.28 , 12.82
+[KOrientation (X-Y-Z): (358.12 , 0.25 , 0.73)
+[KCalib Status : 1, 1 
+[KOdometry : 0.066149, 0.077787 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 1.38 s
+[KRanging: 75, 124, 8190, 8190, 178
+KPosition: -0.35 , 18.47
+[KOrientation (X-Y-Z): (358.12 , 0.28 , 0.79)
+[KCalib Status : 1, 1 
+[KOdometry : 0.094324, 0.109636 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 1.50 s
+[KRanging: 74, 127, 8190, 8190, 218
+KPosition: -0.46 , 25.23
+[KOrientation (X-Y-Z): (358.06 , 0.31 , 0.96)
+[KCalib Status : 1, 1 
+[KOdometry : 0.128624, 0.146998 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 1.64 s
+[KRanging: 74, 129, 8190, 8190, 278
+KPosition: -0.59 , 32.84
+[KOrientation (X-Y-Z): (358.06 , 0.31 , 1.06)
+[KCalib Status : 1, 1 
+[KOdometry : 0.168436, 0.188035 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 1.76 s
+[KRanging: 76, 132, 8190, 8190, 363
+KPosition: -0.74 , 40.64
+[KOrientation (X-Y-Z): (358.06 , 0.36 , 1.14)
+[KCalib Status : 1, 1 
+[KOdometry : 0.208860, 0.230297 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 1.88 s
+[KRanging: 76, 135, 8190, 8190, 486
+KPosition: -0.94 , 50.16
+[KOrientation (X-Y-Z): (358.06 , 0.36 , 1.23)
+[KCalib Status : 1, 1 
+[KOdometry : 0.257859, 0.282359 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 2.01 s
+[KRanging: 79, 136, 8190, 8190, 633
+KPosition: -1.20 , 61.64
+[KOrientation (X-Y-Z): (358.06 , 0.38 , 1.38)
+[KCalib Status : 1, 1 
+[KOdometry : 0.316659, 0.345446 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 2.13 s
+[KRanging: 76, 139, 8190, 8190, 781
+KPosition: -1.49 , 72.61
+[KOrientation (X-Y-Z): (358.06 , 0.42 , 1.71)
+[KCalib Status : 1, 1 
+[KOdometry : 0.373008, 0.405470 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 2.25 s
+[KRanging: 80, 143, 8190, 8190, 899
+KPosition: -1.93 , 86.22
+[KOrientation (X-Y-Z): (358.05 , 0.46 , 2.01)
+[KCalib Status : 1, 1 
+[KOdometry : 0.443445, 0.479582 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 2.37 s
+[KRanging: 81, 143, 8190, 8190, 973
+KPosition: -2.40 , 98.63
+[KOrientation (X-Y-Z): (358.06 , 0.44 , 2.26)
+[KCalib Status : 1, 1 
+[KOdometry : 0.507757, 0.546956 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 2.50 s
+[KRanging: 83, 148, 8190, 8190, 1018
+KPosition: -2.96 , 112.18
+[KOrientation (X-Y-Z): (358.12 , 0.44 , 2.57)
+[KCalib Status : 1, 1 
+[KOdometry : 0.578806, 0.619843 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 2.62 s
+[KRanging: 84, 150, 8190, 8190, 1063
+KPosition: -3.80 , 130.11
+[KOrientation (X-Y-Z): (358.12 , 0.45 , 2.78)
+[KCalib Status : 1, 1 
+[KOdometry : 0.671905, 0.717229 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 2.74 s
+[KRanging: 83, 148, 8190, 8190, 1109
+KPosition: -4.55 , 145.62
+[KOrientation (X-Y-Z): (358.12 , 0.43 , 2.72)
+[KCalib Status : 1, 1 
+[KOdometry : 0.755204, 0.798691 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 2.86 s
+[KRanging: 84, 155, 8190, 8190, 1130
+KPosition: -5.34 , 162.46
+[KOrientation (X-Y-Z): (358.12 , 0.42 , 2.66)
+[KCalib Status : 1, 1 
+[KOdometry : 0.845853, 0.886890 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 2.98 s
+[KRanging: 86, 158, 8190, 8190, 1151
+KPosition: -6.07 , 178.49
+[KOrientation (X-Y-Z): (358.12 , 0.44 , 2.61)
+[KCalib Status : 1, 1 
+[KOdometry : 0.930989, 0.972026 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 3.11 s
+[KRanging: 88, 158, 8190, 8190, 1164
+KPosition: -6.87 , 196.25
+[KOrientation (X-Y-Z): (358.12 , 0.51 , 2.55)
+[KCalib Status : 1, 1 
+[KOdometry : 1.025926, 1.065738 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 3.24 s
+[KRanging: 89, 159, 8190, 8190, 1189
+KPosition: -7.58 , 212.69
+[KOrientation (X-Y-Z): (358.12 , 0.52 , 2.42)
+[KCalib Status : 1, 1 
+[KOdometry : 1.113512, 1.152712 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 3.36 s
+[KRanging: 91, 171, 8190, 8190, 1182
+KPosition: -8.26 , 227.39
+[KOrientation (X-Y-Z): (358.12 , 0.59 , 3.20)
+[KCalib Status : 1, 1 
+[KOdometry : 1.187011, 1.235398 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 3.49 s
+[KRanging: 95, 177, 8190, 8190, 1143
+KPosition: -9.33 , 243.81
+[KOrientation (X-Y-Z): (358.12 , 0.84 , 4.49)
+[KCalib Status : 1, 1 
+[KOdometry : 1.267860, 1.329110 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 3.61 s
+[KRanging: 99, 187, 8190, 8190, 1149
+KPosition: -10.83 , 261.35
+[KOrientation (X-Y-Z): (358.09 , 1.04 , 5.44)
+[KCalib Status : 1, 1 
+[KOdometry : 1.356672, 1.427108 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 3.72 s
+[KRanging: 105, 193, 8190, 8190, 1163
+KPosition: -12.66 , 279.39
+[KOrientation (X-Y-Z): (358.01 , 1.21 , 6.05)
+[KCalib Status : 1, 1 
+[KOdometry : 1.450383, 1.525720 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 3.84 s
+[KRanging: 103, 199, 8190, 8190, 1173
+KPosition: -14.13 , 292.70
+[KOrientation (X-Y-Z): (358.00 , 1.34 , 6.46)
+[KCalib Status : 1, 1 
+[KOdometry : 1.521432, 1.596769 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 3.97 s
+[KRanging: 108, 207, 8190, 8190, 1194
+KPosition: -15.94 , 308.47
+[KOrientation (X-Y-Z): (357.94 , 1.46 , 6.60)
+[KCalib Status : 1, 1 
+[KOdometry : 1.606569, 1.680068 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 4.09 s
+[KRanging: 108, 210, 8190, 8190, 1182
+KPosition: -18.30 , 329.00
+[KOrientation (X-Y-Z): (357.84 , 1.50 , 6.49)
+[KCalib Status : 1, 1 
+[KOdometry : 1.719880, 1.786029 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 4.21 s
+[KRanging: 112, 206, 8190, 8190, 1188
+KPosition: -19.90 , 343.57
+[KOrientation (X-Y-Z): (357.77 , 1.50 , 5.98)
+[KCalib Status : 1, 1 
+[KOdometry : 1.803179, 1.858303 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 4.33 s
+[KRanging: 117, 203, 8190, 8190, 1163
+KPosition: -21.61 , 360.92
+[KOrientation (X-Y-Z): (357.69 , 1.42 , 5.16)
+[KCalib Status : 1, 1 
+[KOdometry : 1.902403, 1.944052 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 4.46 s
+[KRanging: 113, 203, 8190, 8190, 1180
+KPosition: -23.12 , 379.28
+[KOrientation (X-Y-Z): (357.69 , 1.24 , 4.30)
+[KCalib Status : 1, 1 
+[KOdometry : 2.007139, 2.034701 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 4.57 s
+[KRanging: 115, 201, 8190, 8190, 1186
+KPosition: -24.17 , 394.48
+[KOrientation (X-Y-Z): (357.73 , 1.09 , 3.65)
+[KCalib Status : 1, 1 
+[KOdometry : 2.093501, 2.110038 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 4.70 s
+[KRanging: 116, 198, 8190, 8190, 1188
+KPosition: -25.12 , 411.71
+[KOrientation (X-Y-Z): (357.75 , 0.86 , 2.73)
+[KCalib Status : 1, 1 
+[KOdometry : 2.192724, 2.193949 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 4.84 s
+[KRanging: 115, 198, 8190, 8190, 1170
+KPosition: -25.79 , 428.09
+[KOrientation (X-Y-Z): (357.75 , 0.66 , 1.90)
+[KCalib Status : 1, 1 
+[KOdometry : 2.285824, 2.274799 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 4.96 s
+[KRanging: 116, 190, 8190, 8190, 1186
+KPosition: -26.23 , 445.52
+[KOrientation (X-Y-Z): (357.81 , 0.49 , 0.99)
+[KCalib Status : 1, 1 
+[KOdometry : 2.385660, 2.359935 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 5.08 s
+[KRanging: 118, 189, 8190, 8190, 1176
+KPosition: -30.25 , 452.25
+[KOrientation (X-Y-Z): (357.81 , 0.38 , 215.96)
+[KCalib Status : 1, 1 
+[KOdometry : 2.489171, 2.447522 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 5.20 s
+[KRanging: 112, 187, 8190, 8190, 1190
+KPosition: -26.79 , 463.26
+[KOrientation (X-Y-Z): (357.85 , 0.28 , 359.09)
+[KCalib Status : 1, 1 
+[KOdometry : 2.565733, 2.513671 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 5.32 s
+[KRanging: 116, 184, 8190, 8190, 1192
+KPosition: -26.40 , 481.78
+[KOrientation (X-Y-Z): (357.88 , 0.31 , 358.52)
+[KCalib Status : 1, 1 
+[KOdometry : 2.670469, 2.605545 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 5.44 s
+[KRanging: 114, 183, 8190, 8190, 1168
+KPosition: -25.88 , 498.34
+[KOrientation (X-Y-Z): (357.88 , 0.35 , 358.02)
+[KCalib Status : 1, 1 
+[KOdometry : 2.761730, 2.690069 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 5.56 s
+[KRanging: 117, 183, 8190, 8190, 1182
+KPosition: -25.29 , 513.46
+[KOrientation (X-Y-Z): (357.85 , 0.38 , 357.62)
+[KCalib Status : 1, 1 
+[KOdometry : 2.843805, 2.768468 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 5.68 s
+[KRanging: 117, 178, 8190, 8190, 1188
+KPosition: -24.75 , 525.80
+[KOrientation (X-Y-Z): (357.80 , 0.41 , 357.31)
+[KCalib Status : 1, 1 
+[KOdometry : 2.911179, 2.832167 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 5.80 s
+[KRanging: 118, 180, 8190, 8190, 1190
+KPosition: -23.88 , 543.09
+[KOrientation (X-Y-Z): (357.81 , 0.44 , 357.02)
+[KCalib Status : 1, 1 
+[KOdometry : 3.004890, 2.922204 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 5.92 s
+[KRanging: 114, 179, 8190, 8190, 1196
+KPosition: -23.09 , 558.02
+[KOrientation (X-Y-Z): (357.83 , 0.47 , 356.94)
+[KCalib Status : 1, 1 
+[KOdometry : 3.085739, 2.999990 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 6.05 s
+[KRanging: 116, 174, 8190, 8190, 1194
+KPosition: -22.20 , 573.76
+[KOrientation (X-Y-Z): (357.88 , 0.46 , 356.63)
+[KCalib Status : 1, 1 
+[KOdometry : 3.172101, 3.080839 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 6.16 s
+[KRanging: 111, 175, 1266, 8190, 1193
+KPosition: -21.38 , 586.89
+[KOrientation (X-Y-Z): (357.88 , 0.44 , 356.34)
+[KCalib Status : 1, 1 
+[KOdometry : 3.242537, 3.150051 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 6.28 s
+[KRanging: 112, 171, 1265, 8190, 1188
+KPosition: -20.28 , 603.66
+[KOrientation (X-Y-Z): (357.88 , 0.40 , 356.09)
+[KCalib Status : 1, 1 
+[KOdometry : 3.333186, 3.237638 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 6.40 s
+[KRanging: 113, 171, 1258, 8190, 1184
+KPosition: -19.24 , 618.34
+[KOrientation (X-Y-Z): (357.88 , 0.35 , 355.87)
+[KCalib Status : 1, 1 
+[KOdometry : 3.412198, 3.314811 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 6.52 s
+[KRanging: 114, 172, 1253, 8190, 1186
+KPosition: -18.30 , 631.29
+[KOrientation (X-Y-Z): (357.88 , 0.30 , 355.83)
+[KCalib Status : 1, 1 
+[KOdometry : 3.482022, 3.382798 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 6.64 s
+[KRanging: 111, 170, 1226, 8190, 1198
+KPosition: -17.00 , 649.08
+[KOrientation (X-Y-Z): (357.88 , 0.19 , 355.86)
+[KCalib Status : 1, 1 
+[KOdometry : 3.576958, 3.477122 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 6.76 s
+[KRanging: 111, 170, 1208, 8190, 1188
+KPosition: -15.91 , 664.17
+[KOrientation (X-Y-Z): (357.88 , 0.09 , 355.86)
+[KCalib Status : 1, 1 
+[KOdometry : 3.657808, 3.556746 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 6.88 s
+[KRanging: 109, 168, 1218, 8190, 1213
+KPosition: -14.82 , 679.08
+[KOrientation (X-Y-Z): (357.88 , 0.02 , 355.74)
+[KCalib Status : 1, 1 
+[KOdometry : 3.737432, 3.635758 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.01 s
+[KRanging: 108, 164, 1218, 8190, 1178
+KPosition: -13.66 , 694.28
+[KOrientation (X-Y-Z): (357.87 , 71.99 , 355.62)
+[KCalib Status : 1, 1 
+[KOdometry : 3.818893, 3.715994 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.12 s
+[KRanging: 108, 166, 1187, 8190, 1189
+KPosition: -12.66 , 707.28
+[KOrientation (X-Y-Z): (357.83 , 359.90 , 355.59)
+[KCalib Status : 1, 1 
+[KOdometry : 3.888717, 3.784594 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.24 s
+[KRanging: 109, 163, 1166, 8190, 1204
+KPosition: -11.41 , 723.57
+[KOrientation (X-Y-Z): (357.80 , 359.74 , 355.61)
+[KCalib Status : 1, 1 
+[KOdometry : 3.975079, 3.871567 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.37 s
+[KRanging: 110, 166, 1177, 8190, 1211
+KPosition: -10.15 , 740.44
+[KOrientation (X-Y-Z): (357.81 , 359.66 , 355.77)
+[KCalib Status : 1, 1 
+[KOdometry : 4.064503, 3.961604 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.49 s
+[KRanging: 108, 161, 1154, 8190, 1202
+KPosition: -9.03 , 755.40
+[KOrientation (X-Y-Z): (357.79 , 359.52 , 355.67)
+[KCalib Status : 1, 1 
+[KOdometry : 4.143515, 4.041841 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.61 s
+[KRanging: 108, 159, 1160, 8190, 1199
+KPosition: -7.76 , 772.10
+[KOrientation (X-Y-Z): (357.75 , 359.39 , 355.65)
+[KCalib Status : 1, 1 
+[KOdometry : 4.231101, 4.131877 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.73 s
+[KRanging: 108, 165, 1135, 8190, 1209
+KPosition: -6.42 , 790.12
+[KOrientation (X-Y-Z): (357.66 , 359.31 , 355.85)
+[KCalib Status : 1, 1 
+[KOdometry : 4.324812, 4.229876 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.85 s
+[KRanging: 109, 162, 1131, 8190, 1200
+KPosition: -5.32 , 805.84
+[KOrientation (X-Y-Z): (357.58 , 359.25 , 356.15)
+[KCalib Status : 1, 1 
+[KOdometry : 4.406887, 4.315012 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 7.98 s
+[KRanging: 106, 166, 1103, 8190, 1210
+KPosition: -3.99 , 826.52
+[KOrientation (X-Y-Z): (357.51 , 359.19 , 356.45)
+[KCalib Status : 1, 1 
+[KOdometry : 4.514685, 4.427099 [1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.10 s
+[KRanging: 107, 168, 1086, 8190, 1212
+KPosition: -2.89 , 844.90
+[KOrientation (X-Y-Z): (357.44 , 359.10 , 356.67)
+[KCalib Status : 1, 1 
+[KOdometry : 4.610847, 4.526322 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.22 s
+[KRanging: 109, 167, 1077, 8190, 1203
+KPosition: -1.76 , 864.78
+[KOrientation (X-Y-Z): (357.44 , 359.10 , 356.84)
+[KCalib Status : 1, 1 
+[KOdometry : 4.714970, 4.633509 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.34 s
+[KRanging: 109, 165, 1048, 8190, 1203
+KPosition: -0.62 , 886.00
+[KOrientation (X-Y-Z): (357.44 , 359.14 , 357.04)
+[KCalib Status : 1, 1 
+[KOdometry : 4.826444, 4.747432 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.47 s
+[KRanging: 109, 170, 1023, 8190, 1209
+KPosition: 0.47 , 908.19
+[KOrientation (X-Y-Z): (357.44 , 359.20 , 357.30)
+[KCalib Status : 1, 1 
+[KOdometry : 4.941593, 4.868093 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.58 s
+[KRanging: 106, 169, 1011, 8190, 1215
+KPosition: 1.33 , 927.74
+[KOrientation (X-Y-Z): (357.50 , 359.31 , 357.64)
+[KCalib Status : 1, 1 
+[KOdometry : 5.042041, 4.975280 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.70 s
+[KRanging: 107, 174, 977, 8190, 1212
+KPosition: 2.06 , 946.49
+[KOrientation (X-Y-Z): (357.58 , 359.48 , 357.86)
+[KCalib Status : 1, 1 
+[KOdometry : 5.139428, 5.076953 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.82 s
+[KRanging: 113, 176, 973, 8190, 1213
+KPosition: 2.83 , 968.87
+[KOrientation (X-Y-Z): (357.63 , 359.64 , 358.27)
+[KCalib Status : 1, 1 
+[KOdometry : 5.253964, 5.200065 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 8.94 s
+[KRanging: 111, 177, 948, 8190, 1215
+KPosition: 3.33 , 988.67
+[KOrientation (X-Y-Z): (357.62 , 359.77 , 358.76)
+[KCalib Status : 1, 1 
+[KOdometry : 5.355638, 5.308476 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.06 s
+[KRanging: 109, 180, 936, 8190, 1201
+KPosition: 3.69 , 1008.70
+[KOrientation (X-Y-Z): (357.66 , 359.89 , 359.14)
+[KCalib Status : 1, 1 
+[KOdometry : 5.459149, 5.417500 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.18 s
+[KRanging: 110, 184, 910, 8190, 1200
+KPosition: 3.94 , 1028.90
+[KOrientation (X-Y-Z): (357.77 , 359.91 , 359.44)
+[KCalib Status : 1, 1 
+[KOdometry : 5.563886, 5.527136 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.30 s
+[KRanging: 112, 189, 890, 8190, 1184
+KPosition: 4.04 , 1046.56
+[KOrientation (X-Y-Z): (357.81 , 71.99 , 287.93)
+[KCalib Status : 1, 1 
+[KOdometry : 5.655147, 5.623297 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.42 s
+[KRanging: 117, 192, 886, 8190, 1204
+KPosition: 0.99 , 1052.93
+[KOrientation (X-Y-Z): (357.84 , 143.98 , 0.25)
+[KCalib Status : 1, 1 
+[KOdometry : 5.769683, 5.740283 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.54 s
+[KRanging: 116, 194, 853, 8190, 1207
+KPosition: 0.90 , 1069.96
+[KOrientation (X-Y-Z): (357.80 , 0.00 , 0.30)
+[KCalib Status : 1, 1 
+[KOdometry : 5.859107, 5.831545 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.66 s
+[KRanging: 114, 200, 836, 8190, 1195
+KPosition: 0.79 , 1091.38
+[KOrientation (X-Y-Z): (357.76 , 0.06 , 0.31)
+[KCalib Status : 1, 1 
+[KOdometry : 5.971806, 5.946081 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.78 s
+[KRanging: 118, 197, 818, 8190, 1223
+KPosition: 0.67 , 1110.02
+[KOrientation (X-Y-Z): (357.75 , 0.11 , 0.38)
+[KCalib Status : 1, 1 
+[KOdometry : 6.069805, 6.045918 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 9.90 s
+[KRanging: 118, 200, 810, 8190, 1208
+KPosition: 0.54 , 1129.01
+[KOrientation (X-Y-Z): (357.78 , 0.11 , 0.47)
+[KCalib Status : 1, 1 
+[KOdometry : 6.169641, 6.147591 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 10.02 s
+[KRanging: 123, 200, 782, 1274, 1211
+KPosition: 0.37 , 1148.06
+[KOrientation (X-Y-Z): (357.77 , 0.08 , 0.51)
+[KCalib Status : 1, 1 
+[KOdometry : 6.269477, 6.249877 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 10.15 s
+[KRanging: 124, 204, 762, 8190, 1197
+KPosition: 0.20 , 1167.34
+[KOrientation (X-Y-Z): (357.76 , 0.09 , 0.48)
+[KCalib Status : 1, 1 
+[KOdometry : 6.371764, 6.352164 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 10.26 s
+[KRanging: 125, 207, 752, 1235, 1200
+KPosition: 0.04 , 1185.06
+[KOrientation (X-Y-Z): (357.75 , 0.09 , 0.55)
+[KCalib Status : 1, 1 
+[KOdometry : 6.464862, 6.447100 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 10.38 s
+[KRanging: 127, 212, 731, 1214, 1205
+KPosition: -0.13 , 1200.65
+[KOrientation (X-Y-Z): (357.75 , 0.10 , 0.74)
+[KCalib Status : 1, 1 
+[KOdometry : 6.547549, 6.529787 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 10.50 s
+[KRanging: 130, 211, 723, 1175, 1200
+KPosition: -0.40 , 1220.16
+[KOrientation (X-Y-Z): (357.73 , 0.12 , 0.82)
+[KCalib Status : 1, 1 
+[KOdometry : 6.650448, 6.633911 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 10.62 s
+[KRanging: 128, 213, 705, 1154, 1192
+KPosition: -0.63 , 1235.51
+[KOrientation (X-Y-Z): (357.68 , 0.15 , 0.91)
+[KCalib Status : 1, 1 
+[KOdometry : 6.730684, 6.716597 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 10.75 s
+[KRanging: 131, 218, 687, 1131, 1203
+KPosition: -0.98 , 1255.83
+[KOrientation (X-Y-Z): (357.61 , 0.19 , 1.03)
+[KCalib Status : 1, 1 
+[KOdometry : 6.837258, 6.825621 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 10.86 s
+[KRanging: 134, 217, 672, 1070, 1222
+KPosition: -1.28 , 1271.93
+[KOrientation (X-Y-Z): (357.61 , 0.16 , 1.10)
+[KCalib Status : 1, 1 
+[KOdometry : 6.922395, 6.911370 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 10.98 s
+[KRanging: 133, 220, 655, 1072, 1197
+KPosition: -1.60 , 1288.49
+[KOrientation (X-Y-Z): (357.67 , 0.14 , 1.14)
+[KCalib Status : 1, 1 
+[KOdometry : 7.010594, 6.998956 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 11.11 s
+[KRanging: 136, 223, 646, 1023, 1183
+KPosition: -1.93 , 1305.23
+[KOrientation (X-Y-Z): (357.71 , 0.08 , 1.09)
+[KCalib Status : 1, 1 
+[KOdometry : 7.098793, 7.088380 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 11.23 s
+[KRanging: 136, 227, 623, 1000, 1192
+KPosition: -2.25 , 1321.68
+[KOrientation (X-Y-Z): (357.79 , 0.07 , 1.14)
+[KCalib Status : 1, 1 
+[KOdometry : 7.185154, 7.176579 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 11.36 s
+[KRanging: 137, 224, 608, 969, 1192
+KPosition: -2.58 , 1339.00
+[KOrientation (X-Y-Z): (357.81 , 0.04 , 1.04)
+[KCalib Status : 1, 1 
+[KOdometry : 7.277028, 7.268453 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 11.47 s
+[KRanging: 139, 225, 589, 906, 1199
+KPosition: -2.87 , 1354.23
+[KOrientation (X-Y-Z): (357.81 , 0.08 , 1.13)
+[KCalib Status : 1, 1 
+[KOdometry : 7.357265, 7.349915 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 11.59 s
+[KRanging: 141, 231, 580, 899, 1197
+KPosition: -3.21 , 1369.76
+[KOrientation (X-Y-Z): (357.81 , 0.14 , 1.37)
+[KCalib Status : 1, 1 
+[KOdometry : 7.438114, 7.433826 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 11.71 s
+[KRanging: 138, 233, 562, 871, 1191
+KPosition: -3.65 , 1386.95
+[KOrientation (X-Y-Z): (357.84 , 0.17 , 1.53)
+[KCalib Status : 1, 1 
+[KOdometry : 7.528763, 7.525700 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 11.83 s
+[KRanging: 144, 236, 555, 856, 1212
+KPosition: -4.04 , 1400.98
+[KOrientation (X-Y-Z): (357.88 , 0.25 , 1.64)
+[KCalib Status : 1, 1 
+[KOdometry : 7.602262, 7.601037 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 11.96 s
+[KRanging: 142, 239, 527, 813, 1203
+KPosition: -4.58 , 1419.73
+[KOrientation (X-Y-Z): (357.88 , 0.32 , 1.71)
+[KCalib Status : 1, 1 
+[KOdometry : 7.700873, 7.701486 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 12.08 s
+[KRanging: 145, 245, 514, 816, 1199
+KPosition: -5.05 , 1434.67
+[KOrientation (X-Y-Z): (357.83 , 0.37 , 1.86)
+[KCalib Status : 1, 1 
+[KOdometry : 7.779272, 7.781722 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 12.20 s
+[KRanging: 145, 246, 506, 766, 1206
+KPosition: -5.57 , 1450.54
+[KOrientation (X-Y-Z): (357.81 , 0.41 , 1.97)
+[KCalib Status : 1, 1 
+[KOdometry : 7.862571, 7.866859 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 12.32 s
+[KRanging: 149, 252, 489, 753, 1204
+KPosition: -6.19 , 1467.67
+[KOrientation (X-Y-Z): (357.81 , 0.46 , 2.20)
+[KCalib Status : 1, 1 
+[KOdometry : 7.951995, 7.959345 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 12.43 s
+[KRanging: 151, 257, 473, 733, 1186
+KPosition: -6.84 , 1483.88
+[KOrientation (X-Y-Z): (357.81 , 0.45 , 2.32)
+[KCalib Status : 1, 1 
+[KOdometry : 8.036519, 8.046931 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 12.55 s
+[KRanging: 153, 261, 459, 713, 1206
+KPosition: -7.38 , 1497.20
+[KOrientation (X-Y-Z): (357.84 , 0.46 , 2.39)
+[KCalib Status : 1, 1 
+[KOdometry : 8.105731, 8.119205 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 12.67 s
+[KRanging: 154, 262, 441, 687, 1208
+KPosition: -8.13 , 1514.56
+[KOrientation (X-Y-Z): (357.88 , 0.51 , 2.58)
+[KCalib Status : 1, 1 
+[KOdometry : 8.195767, 8.213530 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 12.80 s
+[KRanging: 153, 268, 425, 676, 1203
+KPosition: -8.94 , 1531.52
+[KOrientation (X-Y-Z): (357.88 , 0.47 , 2.89)
+[KCalib Status : 1, 1 
+[KOdometry : 8.282742, 8.306628 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 12.91 s
+[KRanging: 159, 279, 411, 660, 1200
+KPosition: -9.79 , 1546.85
+[KOrientation (X-Y-Z): (357.89 , 0.50 , 3.37)
+[KCalib Status : 1, 1 
+[KOdometry : 8.359916, 8.392378 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 13.03 s
+[KRanging: 158, 298, 400, 651, 1207
+KPosition: -10.70 , 1560.96
+[KOrientation (X-Y-Z): (357.88 , 0.52 , 4.06)
+[KCalib Status : 1, 1 
+[KOdometry : 8.427902, 8.474452 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 13.15 s
+[KRanging: 166, 321, 386, 656, 1203
+KPosition: -12.12 , 1578.39
+[KOrientation (X-Y-Z): (357.88 , 0.58 , 5.35)
+[KCalib Status : 1, 1 
+[KOdometry : 8.508751, 8.579188 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 13.27 s
+[KRanging: 172, 348, 368, 654, 1195
+KPosition: -13.76 , 1593.72
+[KOrientation (X-Y-Z): (357.93 , 0.62 , 6.83)
+[KCalib Status : 1, 1 
+[KOdometry : 8.577351, 8.674125 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 13.39 s
+[KRanging: 179, 366, 360, 652, 1194
+KPosition: -16.00 , 1609.96
+[KOrientation (X-Y-Z): (357.94 , 0.74 , 8.84)
+[KCalib Status : 1, 1 
+[KOdometry : 8.646563, 8.778861 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 13.51 s
+[KRanging: 187, 370, 348, 682, 1209
+KPosition: -18.84 , 1626.04
+[KOrientation (X-Y-Z): (357.96 , 0.83 , 11.13)
+[KCalib Status : 1, 1 
+[KOdometry : 8.713937, 8.884822 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 13.64 s
+[KRanging: 201, 361, 339, 770, 1193
+KPosition: -22.66 , 1642.99
+[KOrientation (X-Y-Z): (358.00 , 0.93 , 13.87)
+[KCalib Status : 1, 1 
+[KOdometry : 8.784373, 8.998746 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 13.77 s
+[KRanging: 220, 335, 332, 887, 1219
+KPosition: -26.91 , 1658.59
+[KOrientation (X-Y-Z): (358.04 , 1.03 , 16.84)
+[KCalib Status : 1, 1 
+[KOdometry : 8.846235, 9.108382 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 13.89 s
+[KRanging: 234, 307, 317, 1029, 1245
+KPosition: -33.09 , 1677.03
+[KOrientation (X-Y-Z): (358.11 , 1.16 , 20.01)
+[KCalib Status : 1, 1 
+[KOdometry : 8.918509, 9.242517 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 14.02 s
+[KRanging: 256, 278, 317, 1084, 1258
+KPosition: -39.68 , 1693.23
+[KOrientation (X-Y-Z): (358.23 , 1.33 , 23.55)
+[KCalib Status : 1, 1 
+[KOdometry : 8.983434, 9.363179 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 14.14 s
+[KRanging: 281, 258, 311, 1109, 1261
+KPosition: -46.08 , 1706.80
+[KOrientation (X-Y-Z): (358.33 , 1.51 , 26.92)
+[KCalib Status : 1, 1 
+[KOdometry : 9.038558, 9.467302 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 14.27 s
+[KRanging: 313, 243, 311, 1103, 8190
+KPosition: -55.47 , 1723.90
+[KOrientation (X-Y-Z): (358.47 , 1.69 , 30.79)
+[KCalib Status : 1, 1 
+[KOdometry : 9.108382, 9.604501 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 14.39 s
+[KRanging: 348, 218, 315, 1100, 8190
+KPosition: -65.40 , 1739.27
+[KOrientation (X-Y-Z): (358.64 , 2.00 , 34.70)
+[KCalib Status : 1, 1 
+[KOdometry : 9.174531, 9.732512 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 14.51 s
+[KRanging: 353, 204, 317, 1073, 8190
+KPosition: -76.07 , 1753.55
+[KOrientation (X-Y-Z): (358.81 , 2.30 , 38.47)
+[KCalib Status : 1, 1 
+[KOdometry : 9.240067, 9.856236 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 14.63 s
+[KRanging: 311, 194, 329, 1052, 8190
+KPosition: -88.36 , 1767.96
+[KOrientation (X-Y-Z): (358.94 , 2.33 , 42.39)
+[KCalib Status : 1, 1 
+[KOdometry : 9.308667, 9.988534 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 14.75 s
+[KRanging: 267, 185, 332, 1041, 8190
+KPosition: -101.76 , 1781.65
+[KOrientation (X-Y-Z): (359.06 , 2.43 , 46.34)
+[KCalib Status : 1, 1 
+[KOdometry : 9.379104, 10.121445 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 14.87 s
+[KRanging: 248, 179, 345, 1037, 8190
+KPosition: -116.57 , 1794.88
+[KOrientation (X-Y-Z): (359.16 , 2.61 , 50.03)
+[KCalib Status : 1, 1 
+[KOdometry : 9.453828, 10.257419 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 15.00 s
+[KRanging: 223, 172, 370, 1026, 8190
+KPosition: -133.58 , 1808.07
+[KOrientation (X-Y-Z): (359.26 , 2.71 , 54.04)
+[KCalib Status : 1, 1 
+[KOdometry : 9.537740, 10.401967 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 15.12 s
+[KRanging: 198, 169, 389, 1033, 8190
+KPosition: -148.89 , 1818.50
+[KOrientation (X-Y-Z): (359.34 , 2.74 , 57.58)
+[KCalib Status : 1, 1 
+[KOdometry : 9.610626, 10.525690 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 15.23 s
+[KRanging: 180, 168, 443, 1008, 8190
+KPosition: -167.00 , 1829.27
+[KOrientation (X-Y-Z): (359.46 , 2.88 , 60.61)
+[KCalib Status : 1, 1 
+[KOdometry : 9.695150, 10.664726 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 15.35 s
+[KRanging: 172, 165, 516, 1013, 8190
+KPosition: -181.37 , 1836.80
+[KOrientation (X-Y-Z): (359.58 , 3.01 , 63.83)
+[KCalib Status : 1, 1 
+[KOdometry : 9.760075, 10.771913 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 15.47 s
+[KRanging: 162, 165, 654, 1014, 8190
+KPosition: -200.56 , 1845.63
+[KOrientation (X-Y-Z): (359.68 , 3.03 , 66.83)
+[KCalib Status : 1, 1 
+[KOdometry : 9.847049, 10.909111 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 15.59 s
+[KRanging: 151, 168, 761, 1029, 8190
+KPosition: -218.26 , 1852.67
+[KOrientation (X-Y-Z): (359.76 , 3.01 , 69.53)
+[KCalib Status : 1, 1 
+[KOdometry : 9.926672, 11.031610 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 15.71 s
+[KRanging: 148, 170, 815, 1014, 8190
+KPosition: -235.34 , 1858.56
+[KOrientation (X-Y-Z): (359.82 , 3.03 , 72.07)
+[KCalib Status : 1, 1 
+[KOdometry : 10.003234, 11.146758 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 15.84 s
+[KRanging: 141, 171, 841, 1026, 8190
+KPosition: -254.25 , 1864.20
+[KOrientation (X-Y-Z): (359.88 , 2.99 , 74.49)
+[KCalib Status : 1, 1 
+[KOdometry : 10.090208, 11.269257 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 15.96 s
+[KRanging: 140, 174, 844, 999, 8190
+KPosition: -270.57 , 1868.44
+[KOrientation (X-Y-Z): (359.92 , 2.97 , 76.51)
+[KCalib Status : 1, 1 
+[KOdometry : 10.164320, 11.373993 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 16.08 s
+[KRanging: 136, 174, 838, 1016, 8190
+KPosition: -288.99 , 1872.56
+[KOrientation (X-Y-Z): (359.82 , 2.78 , 78.23)
+[KCalib Status : 1, 1 
+[KOdometry : 10.250681, 11.487917 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 16.19 s
+[KRanging: 134, 182, 836, 1008, 8190
+KPosition: -306.62 , 1875.97
+[KOrientation (X-Y-Z): (359.86 , 2.78 , 79.61)
+[KCalib Status : 1, 1 
+[KOdometry : 10.334593, 11.594490 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 16.31 s
+[KRanging: 134, 184, 818, 997, 8190
+KPosition: -322.55 , 1878.66
+[KOrientation (X-Y-Z): (359.59 , 2.41 , 80.99)
+[KCalib Status : 1, 1 
+[KOdometry : 10.411154, 11.689427 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 16.43 s
+[KRanging: 135, 190, 798, 1015, 8190
+KPosition: -339.92 , 1881.20
+[KOrientation (X-Y-Z): (359.53 , 2.25 , 82.22)
+[KCalib Status : 1, 1 
+[KOdometry : 10.495678, 11.791101 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 16.55 s
+[KRanging: 131, 192, 792, 995, 8190
+KPosition: -356.47 , 1883.30
+[KOrientation (X-Y-Z): (359.56 , 2.21 , 83.21)
+[KCalib Status : 1, 1 
+[KOdometry : 10.577752, 11.886037 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 16.67 s
+[KRanging: 129, 192, 770, 1013, 8190
+KPosition: -374.59 , 1885.33
+[KOrientation (X-Y-Z): (359.56 , 2.22 , 83.91)
+[KCalib Status : 1, 1 
+[KOdometry : 10.667789, 11.989549 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 16.79 s
+[KRanging: 130, 196, 746, 984, 8190
+KPosition: -389.36 , 1886.81
+[KOrientation (X-Y-Z): (359.56 , 2.10 , 84.65)
+[KCalib Status : 1, 1 
+[KOdometry : 10.739450, 12.075297 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 16.92 s
+[KRanging: 131, 198, 735, 962, 8190
+KPosition: -408.68 , 1888.47
+[KOrientation (X-Y-Z): (359.62 , 2.13 , 85.50)
+[KCalib Status : 1, 1 
+[KOdometry : 10.836837, 12.183709 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 17.04 s
+[KRanging: 131, 208, 721, 916, 8190
+KPosition: -423.88 , 1889.60
+[KOrientation (X-Y-Z): (359.66 , 2.11 , 86.11)
+[KCalib Status : 1, 1 
+[KOdometry : 10.913399, 12.268846 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 17.15 s
+[KRanging: 129, 205, 702, 943, 8190
+KPosition: -441.22 , 1890.70
+[KOrientation (X-Y-Z): (359.75 , 2.13 , 86.54)
+[KCalib Status : 1, 1 
+[KOdometry : 11.000985, 12.365619 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 17.27 s
+[KRanging: 132, 207, 682, 913, 8190
+KPosition: -456.09 , 1891.53
+[KOrientation (X-Y-Z): (359.75 , 2.08 , 87.02)
+[KCalib Status : 1, 1 
+[KOdometry : 11.076934, 12.447693 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 17.40 s
+[KRanging: 131, 210, 670, 906, 8190
+KPosition: -471.60 , 1892.27
+[KOrientation (X-Y-Z): (359.80 , 2.11 , 87.43)
+[KCalib Status : 1, 1 
+[KOdometry : 11.155334, 12.534055 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 17.52 s
+[KRanging: 135, 216, 658, 910, 8190
+KPosition: -487.75 , 1892.92
+[KOrientation (X-Y-Z): (359.84 , 2.20 , 88.01)
+[KCalib Status : 1, 1 
+[KOdometry : 11.235570, 12.625316 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 17.64 s
+[KRanging: 135, 220, 647, 899, 8190
+KPosition: -501.71 , 1893.31
+[KOrientation (X-Y-Z): (359.88 , 2.30 , 88.72)
+[KCalib Status : 1, 1 
+[KOdometry : 11.304781, 12.704328 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 17.77 s
+[KRanging: 139, 230, 621, 872, 8190
+KPosition: -519.26 , 1893.59
+[KOrientation (X-Y-Z): (359.88 , 2.37 , 89.56)
+[KCalib Status : 1, 1 
+[KOdometry : 11.389918, 12.805389 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 17.89 s
+[KRanging: 138, 235, 617, 894, 8190
+KPosition: -532.94 , 1893.58
+[KOrientation (X-Y-Z): (359.80 , 2.35 , 90.57)
+[KCalib Status : 1, 1 
+[KOdometry : 11.454843, 12.885626 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 18.00 s
+[KRanging: 141, 247, 604, 884, 8190
+KPosition: -548.06 , 1893.28
+[KOrientation (X-Y-Z): (359.72 , 2.26 , 91.63)
+[KCalib Status : 1, 1 
+[KOdometry : 11.524054, 12.976887 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 18.12 s
+[KRanging: 148, 264, 589, 855, 8190
+KPosition: -561.67 , 1892.73
+[KOrientation (X-Y-Z): (359.67 , 2.20 , 92.81)
+[KCalib Status : 1, 1 
+[KOdometry : 11.587141, 13.058349 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 18.24 s
+[KRanging: 149, 279, 580, 895, 8190
+KPosition: -576.37 , 1891.85
+[KOrientation (X-Y-Z): (359.66 , 2.16 , 93.90)
+[KCalib Status : 1, 1 
+[KOdometry : 11.655740, 13.145935 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 18.36 s
+[KRanging: 156, 298, 559, 869, 8190
+KPosition: -592.42 , 1890.57
+[KOrientation (X-Y-Z): (359.69 , 2.22 , 95.26)
+[KCalib Status : 1, 1 
+[KOdometry : 11.728626, 13.243934 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 18.48 s
+[KRanging: 163, 313, 553, 857, 8190
+KPosition: -607.69 , 1888.95
+[KOrientation (X-Y-Z): (359.69 , 2.30 , 96.71)
+[KCalib Status : 1, 1 
+[KOdometry : 11.798450, 13.337033 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 18.60 s
+[KRanging: 163, 339, 544, 895, 8190
+KPosition: -623.72 , 1886.84
+[KOrientation (X-Y-Z): (359.75 , 2.31 , 98.31)
+[KCalib Status : 1, 1 
+[KOdometry : 11.870112, 13.436870 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 18.72 s
+[KRanging: 177, 411, 530, 856, 8190
+KPosition: -639.78 , 1884.20
+[KOrientation (X-Y-Z): (359.79 , 2.31 , 100.30)
+[KCalib Status : 1, 1 
+[KOdometry : 11.939324, 13.540380 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 18.84 s
+[KRanging: 183, 447, 516, 888, 8190
+KPosition: -655.34 , 1881.06
+[KOrientation (X-Y-Z): (359.74 , 2.11 , 102.26)
+[KCalib Status : 1, 1 
+[KOdometry : 12.007311, 13.640829 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 18.96 s
+[KRanging: 201, 501, 510, 977, 8190
+KPosition: -672.46 , 1876.96
+[KOrientation (X-Y-Z): (359.84 , 2.15 , 104.41)
+[KCalib Status : 1, 1 
+[KOdometry : 12.081423, 13.753528 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 19.08 s
+[KRanging: 209, 519, 499, 8190, 8190
+KPosition: -686.76 , 1873.00
+[KOrientation (X-Y-Z): (359.88 , 2.13 , 106.53)
+[KCalib Status : 1, 1 
+[KOdometry : 12.145734, 13.846627 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 19.20 s
+[KRanging: 225, 504, 493, 8190, 8190
+KPosition: -705.19 , 1867.16
+[KOrientation (X-Y-Z): (359.91 , 2.16 , 108.67)
+[KCalib Status : 1, 1 
+[KOdometry : 12.227808, 13.969738 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 19.31 s
+[KRanging: 238, 495, 488, 8190, 8190
+KPosition: -720.83 , 1861.53
+[KOrientation (X-Y-Z): (359.92 , 2.13 , 110.72)
+[KCalib Status : 1, 1 
+[KOdometry : 12.298858, 14.075087 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 19.43 s
+[KRanging: 253, 461, 478, 8190, 8190
+KPosition: -737.64 , 1854.76
+[KOrientation (X-Y-Z): (359.94 , 2.17 , 112.96)
+[KCalib Status : 1, 1 
+[KOdometry : 12.376032, 14.190235 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 19.55 s
+[KRanging: 270, 443, 466, 8190, 8190
+KPosition: -754.07 , 1847.37
+[KOrientation (X-Y-Z): (359.86 , 2.08 , 115.29)
+[KCalib Status : 1, 1 
+[KOdometry : 12.451981, 14.305384 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 19.67 s
+[KRanging: 296, 425, 466, 8190, 8190
+KPosition: -770.79 , 1839.00
+[KOrientation (X-Y-Z): (323.94 , 2.09 , 117.80)
+[KCalib Status : 1, 1 
+[KOdometry : 12.530379, 14.425433 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 19.79 s
+[KRanging: 327, 392, 460, 8190, 8190
+KPosition: -787.73 , 1829.54
+[KOrientation (X-Y-Z): (215.95 , 2.06 , 120.43)
+[KCalib Status : 1, 1 
+[KOdometry : 12.611841, 14.549768 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 19.91 s
+[KRanging: 363, 374, 466, 8190, 8190
+KPosition: -804.14 , 1819.33
+[KOrientation (X-Y-Z): (359.88 , 2.03 , 123.18)
+[KCalib Status : 1, 1 
+[KOdometry : 12.691465, 14.675330 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 20.04 s
+[KRanging: 409, 360, 462, 8190, 8190
+KPosition: -818.53 , 1809.39
+[KOrientation (X-Y-Z): (359.94 , 2.18 , 126.28)
+[KCalib Status : 1, 1 
+[KOdometry : 12.763740, 14.788[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 20.16 s
+[KRanging: 446, 339, 459, 8190, 8190
+KPosition: -835.68 , 1796.28
+[KOrientation (X-Y-Z): (0.00 , 2.37 , 129.03)
+[KCalib Status : 1, 1 
+[KOdometry : 12.852551, 14.928902 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 20.27 s
+[KRanging: 467, 323, 468, 8190, 8190
+KPosition: -852.42 , 1782.01
+[KOrientation (X-Y-Z): (0.00 , 2.34 , 131.61)
+[KCalib Status : 1, 1 
+[KOdometry : 12.942588, 15.072226 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 20.39 s
+[KRanging: 463, 308, 466, 8190, 8190
+KPosition: -866.20 , 1769.03
+[KOrientation (X-Y-Z): (0.00 , 2.42 , 134.59)
+[KCalib Status : 1, 1 
+[KOdometry : 13.019149, 15.196561 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 20.53 s
+[KRanging: 433, 298, 487, 8190, 8190
+KPosition: -881.89 , 1752.49
+[KOrientation (X-Y-Z): (0.11 , 2.56 , 138.15)
+[KCalib Status : 1, 1 
+[KOdometry : 13.110411, 15.347235 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 20.65 s
+[KRanging: 381, 282, 495, 8190, 8190
+KPosition: -895.53 , 1736.28
+[KOrientation (X-Y-Z): (0.20 , 2.65 , 141.51)
+[KCalib Status : 1, 1 
+[KOdometry : 13.193709, 15.488720 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 20.77 s
+[KRanging: 348, 281, 496, 8190, 1259
+KPosition: -907.41 , 1720.52
+[KOrientation (X-Y-Z): (0.29 , 2.72 , 144.68)
+[KCalib Status : 1, 1 
+[KOdometry : 13.273334, 15.618568 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 20.88 s
+[KRanging: 330, 275, 522, 8190, 1219
+KPosition: -919.82 , 1701.87
+[KOrientation (X-Y-Z): (0.35 , 2.75 , 147.64)
+[KCalib Status : 1, 1 
+[KOdometry : 13.365820, 15.763730 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 21.00 s
+[KRanging: 307, 270, 555, 8190, 1222
+KPosition: -929.23 , 1686.05
+[KOrientation (X-Y-Z): (0.29 , 2.69 , 150.44)
+[KCalib Status : 1, 1 
+[KOdometry : 13.441769, 15.883165 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 21.12 s
+[KRanging: 288, 268, 580, 8190, 1188
+KPosition: -939.35 , 1667.04
+[KOrientation (X-Y-Z): (0.28 , 2.50 , 153.49)
+[KCalib Status : 1, 1 
+[KOdometry : 13.531193, 16.022202 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 21.25 s
+[KRanging: 273, 266, 639, 8190, 1180
+KPosition: -948.58 , 1647.21
+[KOrientation (X-Y-Z): (0.14 , 2.17 , 156.27)
+[KCalib Status : 1, 1 
+[KOdometry : 13.625517, 16.160013 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 21.37 s
+[KRanging: 263, 266, 780, 8190, 1162
+KPosition: -956.30 , 1628.60
+[KOrientation (X-Y-Z): (0.02 , 2.04 , 158.61)
+[KCalib Status : 1, 1 
+[KOdometry : 13.710653, 16.288635 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 21.49 s
+[KRanging: 252, 273, 1018, 8190, 1172
+KPosition: -962.80 , 1610.88
+[KOrientation (X-Y-Z): (323.89 , 1.83 , 161.14)
+[KCalib Status : 1, 1 
+[KOdometry : 13.790890, 16.408684 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 21.60 s
+[KRanging: 244, 274, 1196, 8190, 1162
+KPosition: -969.22 , 1590.69
+[KOrientation (X-Y-Z): (359.81 , 1.75 , 163.38)
+[KCalib Status : 1, 1 
+[KOdometry : 13.882764, 16.541595 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 21.72 s
+[KRanging: 240, 278, 8190, 8190, 1152
+KPosition: -973.59 , 1574.77
+[KOrientation (X-Y-Z): (359.81 , 1.73 , 165.81)
+[KCalib Status : 1, 1 
+[KOdometry : 13.953814, 16.645720 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 21.84 s
+[KRanging: 238, 285, 1277, 8190, 1142
+KPosition: -978.42 , 1553.85
+[KOrientation (X-Y-Z): (359.75 , 1.62 , 168.19)
+[KCalib Status : 1, 1 
+[KOdometry : 14.047524, 16.779856 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 21.96 s
+[KRanging: 231, 293, 8190, 8190, 1132
+KPosition: -981.94 , 1535.13
+[KOrientation (X-Y-Z): (359.70 , 1.61 , 170.26)
+[KCalib Status : 1, 1 
+[KOdometry : 14.132661, 16.896841 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 22.08 s
+[KRanging: 226, 297, 8190, 8190, 1140
+KPosition: -984.79 , 1516.76
+[KOrientation (X-Y-Z): (359.60 , 1.52 , 171.86)
+[KCalib Status : 1, 1 
+[KOdometry : 14.217185, 17.009541 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 22.20 s
+[KRanging: 227, 305, 1258, 8190, 1135
+KPosition: -987.16 , 1498.39
+[KOrientation (X-Y-Z): (359.55 , 1.55 , 173.42)
+[KCalib Status : 1, 1 
+[KOdometry : 14.302321, 17.121014 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 22.32 s
+[KRanging: 226, 312, 1237, 8190, 1123
+KPosition: -989.05 , 1479.66
+[KOrientation (X-Y-Z): (359.46 , 1.51 , 174.95)
+[KCalib Status : 1, 1 
+[KOdometry : 14.388683, 17.234325 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 22.45 s
+[KRanging: 224, 314, 1245, 8190, 1125
+KPosition: -990.49 , 1460.21
+[KOrientation (X-Y-Z): (359.38 , 1.56 , 176.44)
+[KCalib Status : 1, 1 
+[KOdometry : 14.480557, 17.349474 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 22.56 s
+[KRanging: 222, 326, 1215, 1275, 1127
+KPosition: -991.34 , 1443.20
+[KOrientation (X-Y-Z): (359.38 , 1.56 , 177.74)
+[KCalib Status : 1, 1 
+[KOdometry : 14.561406, 17.449310 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 22.68 s
+[KRanging: 225, 332, 1177, 8190, 1127
+KPosition: -991.82 , 1427.56
+[KOrientation (X-Y-Z): (359.38 , 1.58 , 178.68)
+[KCalib Status : 1, 1 
+[KOdometry : 14.636743, 17.539959 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 22.80 s
+[KRanging: 227, 337, 1175, 8190, 1126
+KPosition: -992.12 , 1407.65
+[KOrientation (X-Y-Z): (359.31 , 1.62 , 179.56)
+[KCalib Status : 1, 1 
+[KOdometry : 14.734741, 17.653271 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 22.92 s
+[KRanging: 230, 352, 1129, 1290, 1124
+KPosition: -992.12 , 1392.64
+[KOrientation (X-Y-Z): (359.31 , 1.69 , 180.42)
+[KCalib Status : 1, 1 
+[KOdometry : 14.808853, 17.738407 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 23.05 s
+[KRanging: 231, 359, 1145, 1261, 1126
+KPosition: -991.81 , 1372.79
+[KOrientation (X-Y-Z): (359.25 , 1.77 , 181.32)
+[KCalib Status : 1, 1 
+[KOdometry : 14.906240, 17.851719 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 23.17 s
+[KRanging: 231, 365, 1137, 1275, 1126
+KPosition: -991.37 , 1357.15
+[KOrientation (X-Y-Z): (359.24 , 1.71 , 181.94)
+[KCalib Status : 1, 1 
+[KOdometry : 14.981576, 17.942368 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 23.29 s
+[KRanging: 235, 372, 1109, 1268, 1121
+KPosition: -990.70 , 1339.79
+[KOrientation (X-Y-Z): (359.19 , 1.68 , 182.49)
+[KCalib Status : 1, 1 
+[KOdometry : 15.065488, 18.042816 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 23.40 s
+[KRanging: 236, 375, 1064, 1227, 1118
+KPosition: -989.89 , 1323.76
+[KOrientation (X-Y-Z): (359.19 , 1.63 , 183.27)
+[KCalib Status : 1, 1 
+[KOdometry : 15.140212, 18.138365 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 23.52 s
+[KRanging: 242, 392, 1069, 1229, 1121
+KPosition: -989.02 , 1310.80
+[KOrientation (X-Y-Z): (359.19 , 1.54 , 184.40)
+[KCalib Status : 1, 1 
+[KOdometry : 15.200236, 18.216150 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 23.66 s
+[KRanging: 246, 423, 1056, 1215, 1113
+KPosition: -987.44 , 1293.21
+[KOrientation (X-Y-Z): (359.19 , 1.56 , 185.89)
+[KCalib Status : 1, 1 
+[KOdometry : 15.278635, 18.325174 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 23.78 s
+[KRanging: 250, 447, 1055, 1175, 1127
+KPosition: -985.72 , 1278.70
+[KOrientation (X-Y-Z): (359.24 , 1.58 , 187.54)
+[KCalib Status : 1, 1 
+[KOdometry : 15.341109, 18.417662 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 23.90 s
+[KRanging: 260, 461, 1054, 1155, 1136
+KPosition: -983.66 , 1264.83
+[KOrientation (X-Y-Z): (359.21 , 1.59 , 189.31)
+[KCalib Status : 1, 1 
+[KOdometry : 15.399909, 18.507698 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 24.01 s
+[KRanging: 269, 514, 1034, 1136, 1115
+KPosition: -981.41 , 1252.39
+[KOrientation (X-Y-Z): (359.24 , 1.56 , 191.19)
+[KCalib Status : 1, 1 
+[KOdometry : 15.450133, 18.591610 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 24.13 s
+[KRanging: 277, 551, 1078, 1131, 1137
+KPosition: -978.89 , 1240.89
+[KOrientation (X-Y-Z): (359.25 , 1.54 , 193.49)
+[KCalib Status : 1, 1 
+[KOdometry : 15.496070, 18.670622 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 24.25 s
+[KRanging: 289, 604, 1087, 1105, 1136
+KPosition: -975.43 , 1227.53
+[KOrientation (X-Y-Z): (359.25 , 1.48 , 195.58)
+[KCalib Status : 1, 1 
+[KOdometry : 15.551194, 18.761883 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 24.37 s
+[KRanging: 296, 735, 1067, 1080, 1166
+KPosition: -971.50 , 1214.37
+[KOrientation (X-Y-Z): (359.26 , 1.52 , 197.67)
+[KCalib Status : 1, 1 
+[KOdometry : 15.604482, 18.854368 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 24.49 s
+[KRanging: 309, 864, 1085, 1051, 1162
+KPosition: -967.20 , 1201.87
+[KOrientation (X-Y-Z): (359.31 , 1.58 , 199.97)
+[KCalib Status : 1, 1 
+[KOdometry : 15.655931, 18.943180 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 24.62 s
+[KRanging: 324, 939, 1090, 1036, 1193
+KPosition: -961.43 , 1187.02
+[KOrientation (X-Y-Z): (359.37 , 1.62 , 202.49)
+[KCalib Status : 1, 1 
+[KOdometry : 15.719018, 19.049141 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 24.73 s
+[KRanging: 341, 980, 1072, 1024, 1218
+KPosition: -955.85 , 1174.28
+[KOrientation (X-Y-Z): (359.38 , 1.64 , 204.61)
+[KCalib Status : 1, 1 
+[KOdometry : 15.774142, 19.141628 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 24.86 s
+[KRanging: 365, 972, 1144, 1006, 1232
+KPosition: -949.95 , 1162.06
+[KOrientation (X-Y-Z): (359.39 , 1.66 , 207.14)
+[KCalib Status : 1, 1 
+[KOdometry : 15.828654, 19.231052 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 24.98 s
+[KRanging: 377, 988, 1137, 995, 1274
+KPosition: -941.77 , 1146.73
+[KOrientation (X-Y-Z): (359.41 , 1.64 , 209.48)
+[KCalib Status : 1, 1 
+[KOdometry : 15.898479, 19.345589 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 25.09 s
+[KRanging: 399, 983, 8190, 971, 8190
+KPosition: -932.84 , 1131.69
+[KOrientation (X-Y-Z): (359.42 , 1.59 , 211.70)
+[KCalib Status : 1, 1 
+[KOdometry : 15.968915, 19.460737 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 25.21 s
+[KRanging: 429, 948, 1211, 969, 8190
+KPosition: -925.13 , 1119.84
+[KOrientation (X-Y-Z): (359.48 , 1.70 , 214.22)
+[KCalib Status : 1, 1 
+[KOdometry : 16.027102, 19.552610 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 25.33 s
+[KRanging: 454, 939, 1165, 960, 8190
+KPosition: -914.02 , 1104.22
+[KOrientation (X-Y-Z): (359.55 , 1.76 , 216.69)
+[KCalib Status : 1, 1 
+[KOdometry : 16.106726, 19.676334 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 25.45 s
+[KRanging: 480, 921, 1199, 955, 8190
+KPosition: -903.27 , 1090.50
+[KOrientation (X-Y-Z): (359.61 , 1.84 , 219.18)
+[KCalib Status : 1, 1 
+[KOdometry : 16.178999, 19.789034 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 25.57 s
+[KRanging: 520, 912, 1149, 942, 8190
+KPosition: -890.85 , 1075.91
+[KOrientation (X-Y-Z): (359.57 , 1.80 , 221.57)
+[KCalib Status : 1, 1 
+[KOdometry : 16.259850, 19.911531 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 25.69 s
+[KRanging: 563, 914, 1096, 931, 8190
+KPosition: -877.49 , 1061.53
+[KOrientation (X-Y-Z): (359.56 , 1.79 , 224.03)
+[KCalib Status : 1, 1 
+[KOdometry : 16.343760, 20.035868 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 25.81 s
+[KRanging: 629, 903, 1041, 920, 8190
+KPosition: -863.43 , 1047.59
+[KOrientation (X-Y-Z): (359.56 , 1.87 , 226.39)
+[KCalib Status : 1, 1 
+[KOdometry : 16.428284, 20.161428 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 25.93 s
+[KRanging: 714, 895, 1000, 892, 8190
+KPosition: -847.88 , 1033.46
+[KOrientation (X-Y-Z): (359.56 , 1.85 , 229.02)
+[KCalib Status : 1, 1 
+[KOdometry : 16.517708, 20.294952 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 26.05 s
+[KRanging: 801, 909, 944, 907, 8190
+KPosition: -832.57 , 1020.82
+[KOrientation (X-Y-Z): (359.49 , 1.54 , 231.61)
+[KCalib Status : 1, 1 
+[KOdometry : 16.604071, 20.419289 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 26.17 s
+[KRanging: 875, 907, 928, 893, 8190
+KPosition: -814.99 , 1007.51
+[KOrientation (X-Y-Z): (359.44 , 1.48 , 234.07)
+[KCalib Status : 1, 1 
+[KOdometry : 16.700844, 20.556486 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 26.29 s
+[KRanging: 911, 900, 876, 896, 8190
+KPosition: -797.49 , 995.47
+[KOrientation (X-Y-Z): (359.36 , 1.34 , 236.46)
+[KCalib Status : 1, 1 
+[KOdometry : 16.796392, 20.686335 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 26.42 s
+[KRanging: 937, 910, 862, 870, 8190
+KPosition: -777.01 , 982.50
+[KOrientation (X-Y-Z): (359.38 , 1.48 , 238.67)
+[KCalib Status : 1, 1 
+[KOdometry : 16.907253, 20.832722 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 26.54 s
+[KRanging: 919, 903, 822, 859, 8190
+KPosition: -758.94 , 971.90
+[KOrientation (X-Y-Z): (359.41 , 1.57 , 240.55)
+[KCalib Status : 1, 1 
+[KOdometry : 17.006477, 20.955832 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 26.67 s
+[KRanging: 912, 901, 800, 845, 1255
+KPosition: -736.25 , 959.48
+[KOrientation (X-Y-Z): (359.40 , 1.59 , 241.82)
+[KCalib Status : 1, 1 
+[KOdometry : 17.132650, 21.104055 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 26.78 s
+[KRanging: 902, 913, 770, 820, 1251
+KPosition: -717.59 , 949.70
+[KOrientation (X-Y-Z): (359.36 , 1.61 , 242.72)
+[KCalib Status : 1, 1 
+[KOdometry : 17.237387, 21.222879 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 26.90 s
+[KRanging: 899, 906, 755, 802, 1273
+KPosition: -700.59 , 941.09
+[KOrientation (X-Y-Z): (359.30 , 1.75 , 243.38)
+[KCalib Status : 1, 1 
+[KOdometry : 17.334774, 21.327616 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 27.02 s
+[KRanging: 879, 890, 726, 784, 1282
+KPosition: -677.95 , 929.84
+[KOrientation (X-Y-Z): (359.31 , 1.88 , 243.72)
+[KCalib Status : 1, 1 
+[KOdometry : 17.468298, 21.462364 
+[[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 27.14 s
+[KRanging: 877, 877, 711, 774, 1284
+KPosition: -657.65 , 919.84
+[KOrientation (X-Y-Z): (359.37 , 1.97 , 243.82)
+[KCalib Status : 1, 1 
+[KOdometry : 17.587734, 21.583025 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 27.26 s
+[KRanging: 862, 883, 687, 752, 8190
+KPosition: -637.14 , 909.75
+[KOrientation (X-Y-Z): (359.38 , 2.07 , 243.68)
+[KCalib Status : 1, 1 
+[KOdometry : 17.712683, 21.700623 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 27.38 s
+[KRanging: 843, 860, 671, 707, 8190
+KPosition: -616.34 , 899.33
+[KOrientation (X-Y-Z): (359.31 , 2.06 , 243.10)
+[KCalib Status : 1, 1 
+[KOdometry : 17.841919, 21.818222 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 27.51 s
+[KRanging: 845, 828, 646, 694, 8190
+KPosition: -594.23 , 887.92
+[KOrientation (X-Y-Z): (359.20 , 1.94 , 242.32)
+[KCalib Status : 1, 1 
+[KOdometry : 17.981567, 21.942558 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 27.63 s
+[KRanging: 837, 825, 637, 652, 8190
+KPosition: -573.99 , 877.06
+[KOrientation (X-Y-Z): (359.19 , 1.81 , 241.22)
+[KCalib Status : 1, 1 
+[KOdometry : 18.113253, 22.054644 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 27.75 s
+[KRanging: 848, 791, 628, 630, 8190
+KPosition: -555.24 , 866.47
+[KOrientation (X-Y-Z): (359.16 , 1.63 , 239.76)
+[KCalib Status : 1, 1 
+[KOdometry : 18.239426, 22.156931 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 27.87 s
+[KRanging: 843, 787, 612, 606, 8190
+KPosition: -534.12 , 853.75
+[KOrientation (X-Y-Z): (359.08 , 1.53 , 238.06)
+[KCalib Status : 1, 1 
+[KOdometry : 18.385811, 22.272079 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 27.98 s
+[KRanging: 853, 770, 598, 584, 1183
+KPosition: -514.74 , 841.21
+[KOrientation (X-Y-Z): (359.01 , 1.42 , 236.38)
+[KCalib Status : 1, 1 
+[KOdometry : 18.523010, 22.379877 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 28.11 s
+[KRanging: 834, 751, 593, 558, 1156
+KPosition: -499.02 , 830.36
+[KOrientation (X-Y-Z): (359.00 , 1.24 , 234.37)
+[KCalib Status : 1, 1 
+[KOdometry : 18.636934, 22.468689 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 28.23 s
+[KRanging: 847, 734, 575, 527, 964
+KPosition: -477.36 , 814.40
+[KOrientation (X-Y-Z): (359.00 , 1.16 , 232.71)
+[KCalib Status : 1, 1 
+[KOdometry : 18.797407, 22.593637 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 28.35 s
+[KRanging: 855, 708, 564, 508, 870
+KPosition: -459.49 , 800.33
+[KOrientation (X-Y-Z): (359.00 , 1.05 , 230.86)
+[KCalib Status : 1, 1 
+[KOdometry : 18.933380, 22.698986 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 28.47 s
+[KRanging: 849, 698, 554, 485, 816
+KPosition: -443.36 , 786.77
+[KOrientation (X-Y-Z): (359.00 , 0.94 , 228.99)
+[KCalib Status : 1, 1 
+[KOdometry : 19.059553, 22.796373 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 28.59 s
+[KRanging: 862, 679, 551, 467, 748
+KPosition: -425.72 , 770.91
+[KOrientation (X-Y-Z): (359.00 , 0.88 , 227.15)
+[KCalib Status : 1, 1 
+[KOdometry : 19.200428, 22.907234 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 28.71 s
+[KRanging: 867, 653, 528, 450, 693
+KPosition: -409.36 , 755.28
+[KOrientation (X-Y-Z): (358.98 , 0.87 , 225.49)
+[KCalib Status : 1, 1 
+[KOdometry : 19.334562, 23.013195 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 28.83 s
+[KRanging: 875, 647, 526, 427, 644
+KPosition: -393.81 , 739.48
+[KOrientation (X-Y-Z): (358.96 , 0.93 , 223.71)
+[KCalib Status : 1, 1 
+[KOdometry : 19.465637, 23.117319 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 28.95 s
+[KRanging: 864, 627, 516, 412, 598
+KPosition: -377.72 , 722.12
+[KOrientation (X-Y-Z): (359.00 , 0.94 , 222.19)
+[KCalib Status : 1, 1 
+[KOdometry : 19.604673, 23.229406 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 29.06 s
+[KRanging: 859, 611, 514, 398, 565
+KPosition: -365.62 , 708.40
+[KOrientation (X-Y-Z): (358.94 , 0.92 , 220.84)
+[KCalib Status : 1, 1 
+[KOdometry : 19.712471, 23.315767 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 29.18 s
+[KRanging: 861, 598, 509, 379, 534
+KPosition: -353.58 , 694.09
+[KOrientation (X-Y-Z): (358.90 , 0.93 , 219.32)
+[KCalib Status : 1, 1 
+[KOdometry : 19.822720, 23.403967 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 29.30 s
+[KRanging: 881, 584, 491, 366, 499
+KPosition: -339.33 , 676.22
+[KOrientation (X-Y-Z): (358.82 , 0.85 , 217.82)
+[KCalib Status : 1, 1 
+[KOdometry : 19.955631, 23.513603 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 29.42 s
+[KRanging: 852, 565, 497, 350, 480
+KPosition: -327.49 , 660.63
+[KOrientation (X-Y-Z): (358.75 , 0.79 , 216.73)
+[KCalib Status : 1, 1 
+[KOdometry : 20.068329, 23.608540 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 29.55 s
+[KRanging: 847, 546, 482, 339, 458
+KPosition: -314.29 , 642.54
+[KOrientation (X-Y-Z): (358.75 , 0.68 , 215.49)
+[KCalib Status : 1, 1 
+[KOdometry : 20.196953, 23.717562 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 29.67 s
+[KRanging: 856, 532, 478, 329, 431
+KPosition: -303.60 , 627.27
+[KOrientation (X-Y-Z): (358.73 , 0.55 , 214.49)
+[KCalib Status : 1, 1 
+[KOdometry : 20.302301, 23.810049 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 29.79 s
+[KRanging: 855, 518, 469, 315, 408
+KPosition: -291.30 , 609.03
+[KOrientation (X-Y-Z): (358.69 , 0.39 , 213.60)
+[KCalib Status : 1, 1 
+[KOdometry : 20.427862, 23.917847 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 29.92 s
+[KRanging: 829, 513, 459, 306, 390
+KPosition: -281.10 , 593.42
+[KOrientation (X-Y-Z): (358.66 , 0.18 , 212.84)
+[KCalib Status : 1, 1 
+[KOdometry : 20.532598, 24.010946 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 30.04 s
+[KRanging: 834, 488, 444, 291, 370
+KPosition: -270.64 , 576.95
+[KOrientation (X-Y-Z): (358.57 , 179.97 , 212.09)
+[KCalib Status : 1, 1 
+[KOdometry : 20.641623, 24.108946 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 30.16 s
+[KRanging: 803, 476, 446, 278, 355
+KPosition: -261.02 , 561.39
+[KOrientation (X-Y-Z): (358.49 , 359.76 , 211.51)
+[KCalib Status : 1, 1 
+[KOdometry : 20.742071, 24.202658 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 30.28 s
+[KRanging: 787, 462, 433, 272, 346
+KPosition: -253.53 , 549.05
+[KOrientation (X-Y-Z): (358.39 , 359.61 , 210.99)
+[KCalib Status : 1, 1 
+[KOdometry : 20.822308, 24.275543 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 30.40 s
+[KRanging: 764, 454, 425, 260, 326
+KPosition: -242.80 , 531.05
+[KOrientation (X-Y-Z): (358.26 , 359.54 , 210.66)
+[KCalib Status : 1, 1 
+[KOdometry : 20.937458, 24.382730 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 30.52 s
+[KRanging: 758, 438, 411, 255, 314
+KPosition: -235.54 , 518.71
+[KOrientation (X-Y-Z): (358.19 , 359.44 , 210.39)
+[KCalib Status : 1, 1 
+[KOdometry : 21.015244, 24.456841 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 30.65 s
+[KRanging: 714, 422, 395, 236, 300
+KPosition: -224.83 , 500.37
+[KOrientation (X-Y-Z): (358.20 , 359.39 , 210.15)
+[KCalib Status : 1, 1 
+[KOdometry : 21.129780, 24.567703 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 30.77 s
+[KRanging: 693, 417, 384, 230, 287
+KPosition: -217.01 , 486.82
+[KOrientation (X-Y-Z): (358.19 , 359.41 , 209.91)
+[KCalib Status : 1, 1 
+[KOdometry : 21.214916, 24.648552 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 30.89 s
+[KRanging: 682, 394, 370, 220, 272
+KPosition: -208.85 , 472.60
+[KOrientation (X-Y-Z): (358.23 , 359.46 , 209.82)
+[KCalib Status : 1, 1 
+[KOdometry : 21.301891, 24.735525 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 31.01 s
+[KRanging: 637, 383, 351, 207, 264
+KPosition: -201.02 , 458.99
+[KOrientation (X-Y-Z): (358.25 , 359.49 , 210.04)
+[KCalib Status : 1, 1 
+[KOdometry : 21.384577, 24.819437 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 31.13 s
+[KRanging: 629, 371, 349, 199, 254
+KPosition: -192.62 , 444.51
+[KOrientation (X-Y-Z): (358.29 , 359.51 , 210.16)
+[KCalib Status : 1, 1 
+[KOdometry : 21.473389, 24.908249 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 31.25 s
+[KRanging: 602, 359, 332, 192, 244
+KPosition: -184.35 , 430.29
+[KOrientation (X-Y-Z): (358.40 , 359.52 , 210.21)
+[KCalib Status : 1, 1 
+[KOdometry : 21.559750, 24.996449 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 31.38 s
+[KRanging: 571, 339, 311, 179, 227
+KPosition: -175.73 , 415.53
+[KOrientation (X-Y-Z): (358.44 , 359.58 , 210.40)
+[KCalib Status : 1, 1 
+[KOdometry : 21.648561, 25.088934 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 31.50 s
+[KRanging: 542, 316, 295, 173, 219
+KPosition: -167.57 , 401.71
+[KOrientation (X-Y-Z): (358.46 , 359.63 , 210.71)
+[KCalib Status : 1, 1 
+[KOdometry : 21.731861, 25.175907 
+[[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 31.62 s
+[KRanging: 527, 308, 281, 159, 203
+KPosition: -159.40 , 388.04
+[KOrientation (X-Y-Z): (358.44 , 359.67 , 211.00)
+[KCalib Status : 1, 1 
+[KOdometry : 21.814547, 25.262270 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 31.74 s
+[KRanging: 497, 294, 263, 151, 195
+KPosition: -151.73 , 375.34
+[KOrientation (X-Y-Z): (358.44 , 359.73 , 211.23)
+[KCalib Status : 1, 1 
+[KOdometry : 21.892334, 25.341894 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 31.85 s
+[KRanging: 481, 291, 248, 141, 187
+KPosition: -143.06 , 361.09
+[KOrientation (X-Y-Z): (358.42 , 359.72 , 211.43)
+[KCalib Status : 1, 1 
+[KOdometry : 21.977470, 25.433767 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 31.97 s
+[KRanging: 467, 288, 233, 132, 172
+KPosition: -135.82 , 349.34
+[KOrientation (X-Y-Z): (358.38 , 359.72 , 211.81)
+[KCalib Status : 1, 1 
+[KOdometry : 22.047907, 25.509716 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 32.10 s
+[KRanging: 436, 295, 219, 122, 162
+KPosition: -126.66 , 334.71
+[KOrientation (X-Y-Z): (358.35 , 359.73 , 212.28)
+[KCalib Status : 1, 1 
+[KOdometry : 22.136719, 25.604040 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 32.22 s
+[KRanging: 412, 308, 205, 112, 150
+KPosition: -118.39 , 321.71
+[KOrientation (X-Y-Z): (358.29 , 359.71 , 212.62)
+[KCalib Status : 1, 1 
+[KOdometry : 22.216343, 25.687952 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 32.34 s
+[KRanging: 405, 8191, 187, 100, 136
+KPosition: -110.39 , 309.28
+[KOrientation (X-Y-Z): (358.21 , 359.68 , 212.94)
+[KCalib Status : 1, 1 
+[KOdometry : 22.292904, 25.768188 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 32.46 s
+[KRanging: 371, 8191, 169, 91, 123
+KPosition: -101.50 , 295.64
+[KOrientation (X-Y-Z): (358.12 , 359.62 , 213.19)
+[KCalib Status : 1, 1 
+[KOdometry : 22.376816, 25.857000 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 32.57 s
+[KRanging: 349, 8190, 150, 83, 109
+KPosition: -92.87 , 282.52
+[KOrientation (X-Y-Z): (358.06 , 359.56 , 213.47)
+[KCalib Status : 1, 1 
+[KOdometry : 22.457664, 25.942749 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 32.69 s
+[KRanging: 334, 8191, 136, 71, 98
+KPosition: -85.23 , 271.04
+[KOrientation (X-Y-Z): (358.01 , 359.48 , 213.75)
+[KCalib Status : 1, 1 
+[KOdometry : 22.529938, 26.016861 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 32.82 s
+[KRanging: 316, 8190, 119, 60, 85
+KPosition: -77.42 , 259.39
+[KOrientation (X-Y-Z): (357.94 , 359.41 , 213.89)
+[KCalib Status : 1, 1 
+[KOdometry : 22.604662, 26.090973 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 32.95 s
+[KRanging: 307, 8191, 108, 52, 77
+KPosition: -71.56 , 250.67
+[KOrientation (X-Y-Z): (357.94 , 359.38 , 213.94)
+[KCalib Status : 1, 1 
+[KOdometry : 22.659174, 26.147934 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 33.08 s
+[KRanging: 287, 8190, 98, 51, 66
+KPosition: -66.39 , 243.01
+[KOrientation (X-Y-Z): (357.88 , 359.31 , 214.18)
+[KCalib Status : 1, 1 
+[KOdometry : 22.705725, 26.199383 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 33.20 s
+[KRanging: 276, 8190, 88, 43, 56
+KPosition: -60.66 , 234.62
+[KOrientation (X-Y-Z): (357.81 , 359.31 , 214.48)
+[KCalib Status : 1, 1 
+[KOdometry : 22.757786, 26.255121 
+[K[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[KElapsed time: 33.32 s
+[KRanging: 261, 8190, 79, 36, 51
+KPosition: -55.09 , 226.54
+[KOrientation (X-Y-Z): (357.76 , 359.31 , 214.69)
+[KCalib Status : 1, 1 
+[KOdometry : 22.807398, 26.309633 
+[K
