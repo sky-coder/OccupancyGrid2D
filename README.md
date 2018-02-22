@@ -12,3 +12,7 @@
 
 ---
 
+### Objective:
+* Translate from Portugese to English
+* Run the script with own dataset
+
