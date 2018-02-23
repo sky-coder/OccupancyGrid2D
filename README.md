@@ -13,6 +13,5 @@
 ---
 
 ### Objective:
-* Translate from Portugese to English
+* Translate from Portuguese to English
 * Run the script with own dataset
-
